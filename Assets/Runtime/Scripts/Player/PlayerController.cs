@@ -7,32 +7,33 @@ namespace Player
 {
     public class PlayerController : MonoBehaviour
     {
-        private Dictionary<KeyCode, Vector2> keyDict = new Dictionary<KeyCode, Vector2>()
+        private Dictionary<KeyCode, Vector3> keyDict = new Dictionary<KeyCode, Vector3>()
         {
-            { KeyCode.W, new Vector2(0, 1) },
-            { KeyCode.A, new Vector2(-1, 0) },
-            { KeyCode.S, new Vector2(0, -1) },
-            { KeyCode.D, new Vector2(1, 1) },
+            { KeyCode.W, new Vector3(0, 0, 1) },
+            { KeyCode.A, new Vector3(-1, 0, 0) },
+            { KeyCode.S, new Vector3(0, 0, -1) },
+            { KeyCode.D, new Vector3(1, 0, 0) },
         };
-        
-        private KeyCode lastKey;
 
-        private Rigidbody rigid;
+        private KeyCode lastKey = KeyCode.None;
 
-        public void Awake()
-        {
-            rigid = GetComponent<Rigidbody>();
-        }
+        public float playerSpeed = 2f;
+        private Vector3 toMove = new Vector3();
+
+        public bool running = false;
 
         public void Update()
         {
-            GetInput();
             Physics();
         }
 
+        public void OnGUI()
+        {
+            GetInput();
+        }
         public void GetInput()
         {
-            if (Input.anyKeyDown)
+            if (Input.anyKey)
             {
                 var current = Event.current.keyCode;
 
@@ -41,13 +42,24 @@ namespace Player
                     return;
                 }
 
+                running = Event.current.shift;
+
                 lastKey = Event.current.keyCode;
+                return;
             }
+
+            lastKey = KeyCode.None;
         }
 
         public void Physics()
-        { 
-           
+        {
+            if (lastKey != KeyCode.None)
+            {
+                toMove = transform.position;
+                toMove += keyDict[lastKey];
+            }
+
+            transform.position = Vector3.MoveTowards(transform.position, toMove, (running ? playerSpeed * 2 : playerSpeed) * Time.deltaTime);
         }
     }
 }
