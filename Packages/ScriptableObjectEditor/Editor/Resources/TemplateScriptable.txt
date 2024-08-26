@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[CreateAssetMenu(menuName = "DefaultName")]
+public class DefaultName : ScriptableObject
+{
+    public void Awake()
+    {
+        
+    }
+}

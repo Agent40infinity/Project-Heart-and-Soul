@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "agent40.soe": {
+      "version": "file:ScriptableObjectEditor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "3.2.17",
       "depth": 0,
