@@ -1,0 +1,4772 @@
+fileFormatVersion: 2
+guid: 2faa1e6dbbd17ec489aa78e7603eb5ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2153582465023993775
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_0
+  - first:
+      213: -4419848178652131028
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_1
+  - first:
+      213: -2966878773248571612
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_2
+  - first:
+      213: -9100722291753044023
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_3
+  - first:
+      213: -1735044329910364543
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_4
+  - first:
+      213: 2239858069431579587
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_5
+  - first:
+      213: 2358197906943135781
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_6
+  - first:
+      213: -7929082722435939892
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_7
+  - first:
+      213: 6294701292797705689
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_8
+  - first:
+      213: -919543895973351195
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_9
+  - first:
+      213: -2435364914175678984
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_10
+  - first:
+      213: -1014919462613799634
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_11
+  - first:
+      213: -5580034547347919137
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_12
+  - first:
+      213: 7603702495458486378
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_13
+  - first:
+      213: 8559423210603812336
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_14
+  - first:
+      213: 240148311220254553
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_15
+  - first:
+      213: 4289623176444264365
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_16
+  - first:
+      213: 7494731399023239684
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_17
+  - first:
+      213: -6723310748275628115
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_18
+  - first:
+      213: -9011470313927360700
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_19
+  - first:
+      213: 5854980460747791219
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_20
+  - first:
+      213: -4591701476860077282
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_21
+  - first:
+      213: 1410002547569727583
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_22
+  - first:
+      213: -1696962980383595752
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_23
+  - first:
+      213: -7463937343837324724
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_24
+  - first:
+      213: -517344697326203899
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_25
+  - first:
+      213: 5130819045563750427
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_26
+  - first:
+      213: 115497682948043875
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_27
+  - first:
+      213: 7167932987310970414
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_28
+  - first:
+      213: 3336377043478558528
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_29
+  - first:
+      213: -8358292336289655299
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_30
+  - first:
+      213: -8993491572896565682
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_31
+  - first:
+      213: -4088213169612402145
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_32
+  - first:
+      213: -1564844528002748533
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_33
+  - first:
+      213: 4189696074848981811
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_34
+  - first:
+      213: -1033832753636526294
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_35
+  - first:
+      213: -1725636679094637280
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_36
+  - first:
+      213: 1652578449998635874
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_37
+  - first:
+      213: 7990873351236155528
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_38
+  - first:
+      213: 846827153563883459
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_39
+  - first:
+      213: 4620363527619933584
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_40
+  - first:
+      213: -4789788605247384009
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_41
+  - first:
+      213: 3887451968015781553
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_42
+  - first:
+      213: 1263813147397884899
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_43
+  - first:
+      213: -3155170788881835028
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_44
+  - first:
+      213: -9122477858533228738
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_45
+  - first:
+      213: -5463841634924047444
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_46
+  - first:
+      213: 6014051398331590662
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_47
+  - first:
+      213: -6136103165363005389
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_48
+  - first:
+      213: 2620411546088970690
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_49
+  - first:
+      213: -2771366538933361480
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_50
+  - first:
+      213: -5085564467814562214
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_51
+  - first:
+      213: -1155407434275289824
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_52
+  - first:
+      213: -277021241229339942
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_53
+  - first:
+      213: 8179726387633243296
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_54
+  - first:
+      213: 6583854110333566467
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_55
+  - first:
+      213: -6911136882864377896
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_56
+  - first:
+      213: 7700317647638826625
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_57
+  - first:
+      213: -3747048004967732577
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_58
+  - first:
+      213: -1352143541957069742
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_59
+  - first:
+      213: -485787574938366447
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_60
+  - first:
+      213: -8988471943524267443
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_61
+  - first:
+      213: 8574350669320346644
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_62
+  - first:
+      213: -1150298499708173669
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_63
+  - first:
+      213: 5916277924175324504
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_64
+  - first:
+      213: -3395062838562388836
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_65
+  - first:
+      213: -7749122825707766568
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_66
+  - first:
+      213: 1348987266279461800
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_67
+  - first:
+      213: -794798337540116648
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_68
+  - first:
+      213: -5433416799460373896
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_69
+  - first:
+      213: -8706309193690068080
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_70
+  - first:
+      213: -6973526164083842064
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_71
+  - first:
+      213: -4076699914788023933
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_72
+  - first:
+      213: 7522913709112618263
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_73
+  - first:
+      213: -6459681651368571557
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_74
+  - first:
+      213: -8655176393957134846
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_75
+  - first:
+      213: 5419673890582521871
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_76
+  - first:
+      213: 3534653696358482758
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_77
+  - first:
+      213: -6461760643080914517
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_78
+  - first:
+      213: 4029589440818335329
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_79
+  - first:
+      213: 5108366191911276445
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_80
+  - first:
+      213: -222780766117634076
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_81
+  - first:
+      213: 8656438718318124661
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_82
+  - first:
+      213: -7953628681623180488
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_83
+  - first:
+      213: 8199971163351738220
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_84
+  - first:
+      213: 7010566310159195914
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_85
+  - first:
+      213: 8147829279090005808
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_86
+  - first:
+      213: -7092267388678488616
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_87
+  - first:
+      213: -7667342354157352838
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_88
+  - first:
+      213: -5218561206942706863
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_89
+  - first:
+      213: -8032159399660501247
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_90
+  - first:
+      213: -8801304440104443587
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_91
+  - first:
+      213: 1378386807665996531
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_92
+  - first:
+      213: 8185332005189657340
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_93
+  - first:
+      213: -8644145759197749698
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_94
+  - first:
+      213: -148432940179026187
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_95
+  - first:
+      213: -5622286194832442677
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_96
+  - first:
+      213: -5271208988310203120
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_97
+  - first:
+      213: -7645296050531155772
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_98
+  - first:
+      213: -6153638858540800500
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_99
+  - first:
+      213: -8995565100074486816
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_100
+  - first:
+      213: 6008342266456657667
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_101
+  - first:
+      213: -8683447792744843665
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_102
+  - first:
+      213: 5989710433896168623
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_103
+  - first:
+      213: 6086038725271273066
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_104
+  - first:
+      213: 1376282369921908911
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_105
+  - first:
+      213: 6844419162352068142
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_106
+  - first:
+      213: -2894066658592292240
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_107
+  - first:
+      213: 9072093282968349068
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_108
+  - first:
+      213: -6933433252087195578
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_109
+  - first:
+      213: 2515041420598512485
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_110
+  - first:
+      213: 3906006940438907857
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_111
+  - first:
+      213: -4506902608942943276
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_112
+  - first:
+      213: -894346264172942174
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_113
+  - first:
+      213: 1120262778208330913
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_114
+  - first:
+      213: 9034558520429232182
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_115
+  - first:
+      213: -11093543787124156
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_116
+  - first:
+      213: -4014800450292126426
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_117
+  - first:
+      213: 645591619392761913
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_118
+  - first:
+      213: 8505610001920650742
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_119
+  - first:
+      213: -1106022639694360442
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_120
+  - first:
+      213: 1698898320783724531
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_121
+  - first:
+      213: -2254921057821342785
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_122
+  - first:
+      213: 703109183971197366
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_123
+  - first:
+      213: 439460449616981846
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_124
+  - first:
+      213: 3939682966197742911
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_125
+  - first:
+      213: -4786735868212935782
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_126
+  - first:
+      213: 5602020079441453372
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_127
+  - first:
+      213: -25790101625280797
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_128
+  - first:
+      213: -4985340683873829201
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_129
+  - first:
+      213: -5177580237556144502
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_130
+  - first:
+      213: 2444328709516304731
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_131
+  - first:
+      213: 324594934103953192
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_132
+  - first:
+      213: -5261341346095689318
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_133
+  - first:
+      213: 770813576431711874
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_134
+  - first:
+      213: 2331012585475836447
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_135
+  - first:
+      213: -7077271625951790046
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_136
+  - first:
+      213: -3219843493553567852
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_137
+  - first:
+      213: -2669446100916489071
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_138
+  - first:
+      213: 7545000853441057780
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_139
+  - first:
+      213: 6276908497654410705
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_140
+  - first:
+      213: -5216973319563908226
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_141
+  - first:
+      213: 8227410153487694140
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_142
+  - first:
+      213: -6967967941537967415
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_143
+  - first:
+      213: -4861016173558780924
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_144
+  - first:
+      213: 3700525348075040444
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_145
+  - first:
+      213: 1032026848379131108
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_146
+  - first:
+      213: -3861951424321561419
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_147
+  - first:
+      213: -9018258794116594873
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_148
+  - first:
+      213: 2270093115981330579
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_149
+  - first:
+      213: 549505810366772522
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_150
+  - first:
+      213: -7913192152573657435
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_151
+  - first:
+      213: 3352840718799297187
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_152
+  - first:
+      213: -3077580016787485168
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_153
+  - first:
+      213: 8615674940318706570
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_154
+  - first:
+      213: 1243299255726102755
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_155
+  - first:
+      213: -8576153774783036605
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_156
+  - first:
+      213: -9196541439934275949
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_157
+  - first:
+      213: -3366225361874045138
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_158
+  - first:
+      213: 9152790662001292592
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_159
+  - first:
+      213: 1348109182397487290
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_160
+  - first:
+      213: -1728461290353108226
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_161
+  - first:
+      213: 3541918310927715232
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_162
+  - first:
+      213: 1039636169305010098
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_163
+  - first:
+      213: -3972679388638730806
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_164
+  - first:
+      213: -2773773030433074223
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_165
+  - first:
+      213: 76931954373197980
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_166
+  - first:
+      213: -3420959673970419652
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_167
+  - first:
+      213: 1499460114528530207
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_168
+  - first:
+      213: -6136250249352181554
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_169
+  - first:
+      213: 8012556517190652207
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_170
+  - first:
+      213: -931650408465048453
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_171
+  - first:
+      213: -7713352288950632609
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_172
+  - first:
+      213: 3127670023308990344
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_173
+  - first:
+      213: 7572347277634533009
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_174
+  - first:
+      213: 7783705341444304817
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_175
+  - first:
+      213: 3797572021420364128
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_176
+  - first:
+      213: -8649657274911253067
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_177
+  - first:
+      213: -8427176836320655836
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_178
+  - first:
+      213: 7840312468262277139
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_179
+  - first:
+      213: -1944099209317151588
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_180
+  - first:
+      213: -6195321706551585506
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_181
+  - first:
+      213: -5372089254967961730
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_182
+  - first:
+      213: -1514303017650993865
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_183
+  - first:
+      213: 4861295279304386677
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_184
+  - first:
+      213: -1847211126714200052
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_185
+  - first:
+      213: -9162247497088580601
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_186
+  - first:
+      213: 3657784330422774080
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_187
+  - first:
+      213: -8879819896105499812
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_188
+  - first:
+      213: -2294416926866152298
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_189
+  - first:
+      213: 6152006079961468435
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_190
+  - first:
+      213: 5522069239142722229
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_191
+  - first:
+      213: 1139815126898470254
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_192
+  - first:
+      213: -8891349215972329021
+    second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_193
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 460
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1581cb18820fc12e0800000000000000
+      internalID: -2153582465023993775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 462
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215846bf7b89a2c0800000000000000
+      internalID: -4419848178652131028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 460
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274fd4997783d6d0800000000000000
+      internalID: -2966878773248571612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 462
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7b4981b4db3b180800000000000000
+      internalID: -9100722291753044023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 464
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861326ef52ebe7e0800000000000000
+      internalID: -1735044329910364543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 462
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f2cffb03951f10800000000000000
+      internalID: 2239858069431579587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 464
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5205a6980800ab020800000000000000
+      internalID: 2358197906943135781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 463
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c486264d36f190800000000000000
+      internalID: -7929082722435939892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 462
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd366c99754b5750800000000000000
+      internalID: 6294701292797705689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 463
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03125d2bf1d33f0800000000000000
+      internalID: -919543895973351195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 459
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5eb108388d33ed0800000000000000
+      internalID: -2435364914175678984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 460
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d264340284ae1f0800000000000000
+      internalID: -1014919462613799634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 458
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6beab42cbf82b0800000000000000
+      internalID: -5580034547347919137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 458
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68ed8b2227c58960800000000000000
+      internalID: 7603702495458486378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5164e6f0e29c670800000000000000
+      internalID: 8559423210603812336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 433
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95771bfdd9d255300800000000000000
+      internalID: 240148311220254553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 432
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf3e343d8dc78b30800000000000000
+      internalID: 4289623176444264365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 433
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022fb5af72a20860800000000000000
+      internalID: 7494731399023239684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 434
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7277efe7002b2a0800000000000000
+      internalID: -6723310748275628115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 433
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb16a8e73d0f280800000000000000
+      internalID: -9011470313927360700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 428
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b99b145b1114150800000000000000
+      internalID: 5854980460747791219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 429
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5e1da5dff640c0800000000000000
+      internalID: -4591701476860077282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 428
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581a44b8d5519310800000000000000
+      internalID: 1410002547569727583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 428
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136f35092d2378e0800000000000000
+      internalID: -1696962980383595752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 427
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4abdca0884ca6890800000000000000
+      internalID: -7463937343837324724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 427
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c80712db502d8f0800000000000000
+      internalID: -517344697326203899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 428
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d2a9dcb4543740800000000000000
+      internalID: 5130819045563750427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 402
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364bf7cd7845a9100800000000000000
+      internalID: 115497682948043875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 404
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26997a131d997360800000000000000
+      internalID: 7167932987310970414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 402
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047be418e313d4e20800000000000000
+      internalID: 3336377043478558528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 402
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d59e7761610c80800000000000000
+      internalID: -8358292336289655299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 403
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f7036013b03380800000000000000
+      internalID: -8993491572896565682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 402
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12dd2358cfb347c0800000000000000
+      internalID: -4088213169612402145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 400
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8faea3513e884ae0800000000000000
+      internalID: -1564844528002748533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 401
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d832d16ac42a30800000000000000
+      internalID: 4189696074848981811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b45a869617a1f0800000000000000
+      internalID: -1033832753636526294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 395
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ded2b459e4d08e0800000000000000
+      internalID: -1725636679094637280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 394
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26362a338532fe610800000000000000
+      internalID: 1652578449998635874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 390
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f099b9f845ee60800000000000000
+      internalID: 7990873351236155528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 389
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7945a3fc880cb00800000000000000
+      internalID: 846827153563883459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 374
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095f4fc0624de1040800000000000000
+      internalID: 4620363527619933584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 375
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736140314a0478db0800000000000000
+      internalID: -4789788605247384009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 374
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be49f2e7f003f530800000000000000
+      internalID: 3887451968015781553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 376
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb8e119c57f98110800000000000000
+      internalID: 1263813147397884899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 376
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb520362e49634d0800000000000000
+      internalID: -3155170788881835028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 375
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb2ca78b2766180800000000000000
+      internalID: -9122477858533228738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_46
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 369
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3dc515bf88c24b0800000000000000
+      internalID: -5463841634924047444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 371
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ee7a02e3367350800000000000000
+      internalID: 6014051398331590662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 359
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338536b7eae28daa0800000000000000
+      internalID: -6136103165363005389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 358
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c917f9ea629d5420800000000000000
+      internalID: 2620411546088970690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 358
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42970f0d02a89d0800000000000000
+      internalID: -2771366538933361480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 358
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56809d9f027c69b0800000000000000
+      internalID: -5085564467814562214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 334
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250d256f0b27ffe0800000000000000
+      internalID: -1155407434275289824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 322
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2994916a2d72cf0800000000000000
+      internalID: -277021241229339942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_54
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 322
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c4cebfc9348170800000000000000
+      internalID: 8179726387633243296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_55
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 319
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7d6b3e6c8e5b50800000000000000
+      internalID: 6583854110333566467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 321
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa4ce2f95b610a0800000000000000
+      internalID: -6911136882864377896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 304
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0f2d3a160dda60800000000000000
+      internalID: 7700317647638826625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 304
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aef8331bfcffbc0800000000000000
+      internalID: -3747048004967732577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 304
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547f40dc983c3de0800000000000000
+      internalID: -1352143541957069742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 291
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e008f36c22249f0800000000000000
+      internalID: -485787574938366447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 291
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4acbace368824380800000000000000
+      internalID: -8988471943524267443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd87041863ef670800000000000000
+      internalID: 8574350669320346644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 291
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ca3beb915900f0800000000000000
+      internalID: -1150298499708173669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_64
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 291
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a4fe1d67da1250800000000000000
+      internalID: 5916277924175324504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_65
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 292
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940c5d065052e0d0800000000000000
+      internalID: -3395062838562388836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 276
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc31dcb8d5957490800000000000000
+      internalID: -7749122825707766568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 260
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3dc1d75c098b210800000000000000
+      internalID: 1348987266279461800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 261
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa9de7f1f48f4f0800000000000000
+      internalID: -794798337540116648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 247
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a46875530a894b0800000000000000
+      internalID: -5433416799460373896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 247
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc2659ae9fc2780800000000000000
+      internalID: -8706309193690068080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 247
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3e3eda6ee093f90800000000000000
+      internalID: -6973526164083842064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d13bd607ac67c0800000000000000
+      internalID: -4076699914788023933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 247
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de29b0922c66860800000000000000
+      internalID: 7522913709112618263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d411053c99a56a0800000000000000
+      internalID: -6459681651368571557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_75
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 244
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea6d14de2a2e780800000000000000
+      internalID: -8655176393957134846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 244
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0861a650bc863b40800000000000000
+      internalID: 5419673890582521871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 246
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64308773fcc9d0130800000000000000
+      internalID: 3534653696358482758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 246
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ff855ee63356a0800000000000000
+      internalID: -6461760643080914517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 246
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e44aa2f3afbe730800000000000000
+      internalID: 4029589440818335329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 244
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8c7b7cff84e640800000000000000
+      internalID: 5108366191911276445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_81
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 246
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd4c4d21688ecf0800000000000000
+      internalID: -222780766117634076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_82
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 246
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e1a498629d12870800000000000000
+      internalID: 8656438718318124661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 232
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bed7caad80f9190800000000000000
+      internalID: -7953628681623180488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_84
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 231
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e608e3562cc170800000000000000
+      internalID: 8199971163351738220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_85
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 232
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1c5f5ae88a4160800000000000000
+      internalID: 7010566310159195914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 217
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037dfae6f87e21170800000000000000
+      internalID: 8147829279090005808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_87
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3bbde264339d90800000000000000
+      internalID: -7092267388678488616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 234
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c42190c0289590800000000000000
+      internalID: -7667342354157352838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 234
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153db8d3b32f397b0800000000000000
+      internalID: -5218561206942706863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107cbeb0599088090800000000000000
+      internalID: -8032159399660501247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a1873e3c7bd580800000000000000
+      internalID: -8801304440104443587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 234
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f23402af73012310800000000000000
+      internalID: 1378386807665996531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_93
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 234
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf227f94714289170800000000000000
+      internalID: 8185332005189657340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_94
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 234
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e915c0b33d90880800000000000000
+      internalID: -8644145759197749698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 234
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe89aff609a0fdf0800000000000000
+      internalID: -148432940179026187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafd637e70a9f1b0800000000000000
+      internalID: -5622286194832442677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_97
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 234
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159cea6a57e8d6b0800000000000000
+      internalID: -5271208988310203120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_98
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 234
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c461afb376e590800000000000000
+      internalID: -7645296050531155772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_99
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a2a0cf02e99aa0800000000000000
+      internalID: -6153638858540800500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_100
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 222
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b828b335592380800000000000000
+      internalID: -8995565100074486816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_101
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f4d11357be16350800000000000000
+      internalID: 6008342266456657667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 222
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663bc74d323e7780800000000000000
+      internalID: -8683447792744843665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf4df97e9bf1350800000000000000
+      internalID: 5989710433896168623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_104
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 222
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb015b9f3f57450800000000000000
+      internalID: 6086038725271273066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_105
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 220
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa004d90689891310800000000000000
+      internalID: 1376282369921908911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_106
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 222
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262fd107f24cfe50800000000000000
+      internalID: 6844419162352068142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_107
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720e4a15b536d7d0800000000000000
+      internalID: -2894066658592292240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_108
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 222
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89298c56cc86ed70800000000000000
+      internalID: 9072093282968349068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 222
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648167f213f77cf90800000000000000
+      internalID: -6933433252087195578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_110
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0b26c8d837e220800000000000000
+      internalID: 2515041420598512485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db421f0e9ce43630800000000000000
+      internalID: 3906006940438907857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_112
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3bcaca4f34471c0800000000000000
+      internalID: -4506902608942943276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_113
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac26c9afc4a693f0800000000000000
+      internalID: -894346264172942174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_114
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 222
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42336bf09fb8f00800000000000000
+      internalID: 1120262778208330913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_115
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c9a07b13316d70800000000000000
+      internalID: 9034558520429232182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_116
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aa44f0b7698dff0800000000000000
+      internalID: -11093543787124156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_117
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d624403409848c0800000000000000
+      internalID: -4014800450292126426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_118
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 220
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ffd7482a95f800800000000000000
+      internalID: 645591619392761913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_119
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 188
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6d7a6b3ff90670800000000000000
+      internalID: 8505610001920650742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 188
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805a77e44e96a0f0800000000000000
+      internalID: -1106022639694360442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_121
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 188
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff42d78503b39710800000000000000
+      internalID: 1698898320783724531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_122
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 198
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c208be39e4b0e0800000000000000
+      internalID: -2254921057821342785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_123
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 198
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10becd312f1c900800000000000000
+      internalID: 703109183971197366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe04853f6491600800000000000000
+      internalID: 439460449616981846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_125
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dafdfc8c09ca630800000000000000
+      internalID: 3939682966197742911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_126
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 198
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930c8dc619129db0800000000000000
+      internalID: -4786735868212935782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_127
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31a6bbd49f5ebd40800000000000000
+      internalID: 5602020079441453372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 198
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e667e90a0064aff0800000000000000
+      internalID: -25790101625280797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeb56dbf0380dab0800000000000000
+      internalID: -4985340683873829201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_130
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862268b43a8528b0800000000000000
+      internalID: -5177580237556144502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51220db2000ce120800000000000000
+      internalID: 2444328709516304731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_132
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 198
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f482f6f51318400800000000000000
+      internalID: 324594934103953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_133
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 198
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9114e7ebe5fbf6b0800000000000000
+      internalID: -5261341346095689318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_134
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 198
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286b2432dda72ba00800000000000000
+      internalID: 770813576431711874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_135
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8044a89b695020800000000000000
+      internalID: 2331012585475836447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_136
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c313404fa78cd90800000000000000
+      internalID: -7077271625951790046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_137
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497036ee661d053d0800000000000000
+      internalID: -3219843493553567852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_138
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 159
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19432df1ae834fad0800000000000000
+      internalID: -2669446100916489071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_139
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f39f531d4a35b860800000000000000
+      internalID: 7545000853441057780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_140
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd625aa50f0c1750800000000000000
+      internalID: 6276908497654410705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_141
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 158
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be3b418669997b0800000000000000
+      internalID: -5216973319563908226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_142
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397314a1f1ad2270800000000000000
+      internalID: 8227410153487694140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d156331ecc4f90800000000000000
+      internalID: -6967967941537967415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_144
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca99f7b833a8cb0800000000000000
+      internalID: -4861016173558780924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_145
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6756a238ea5330800000000000000
+      internalID: 3700525348075040444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_146
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4dd4063fe725e00800000000000000
+      internalID: 1032026848379131108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcdf7d14a7976ac0800000000000000
+      internalID: -3861951424321561419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_148
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74343245865b8d280800000000000000
+      internalID: -9018258794116594873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_149
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398702959adf08f10800000000000000
+      internalID: 2270093115981330579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_150
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 93
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25bce48f9c30a700800000000000000
+      internalID: 549505810366772522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_151
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 94
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae3072c9a1be2290800000000000000
+      internalID: -7913192152573657435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_152
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 96
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5f70aedea78e20800000000000000
+      internalID: 3352840718799297187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 94
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8a8bc74d3a45d0800000000000000
+      internalID: -3077580016787485168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6eedd5b6019770800000000000000
+      internalID: 8615674940318706570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_155
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8df07f516114110800000000000000
+      internalID: 1243299255726102755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_156
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 95
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438eea84916bf880800000000000000
+      internalID: -8576153774783036605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_157
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 97
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ede8629425f5080800000000000000
+      internalID: -9196541439934275949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_158
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27369f4ed3c841d0800000000000000
+      internalID: -3366225361874045138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03579101d9e350f70800000000000000
+      internalID: 9152790662001292592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_160
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89e37a82275b210800000000000000
+      internalID: 1348109182397487290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5d7c3d954308e0800000000000000
+      internalID: -1728461290353108226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4c4a10fb672130800000000000000
+      internalID: 3541918310927715232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_163
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 69
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa21776978d6e00800000000000000
+      internalID: 1039636169305010098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_164
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 68
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac52ca9e4253ed8c0800000000000000
+      internalID: -3972679388638730806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_165
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 57
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35a79ff149189d0800000000000000
+      internalID: -2773773030433074223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_166
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908a447431511100800000000000000
+      internalID: 76931954373197980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_167
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 56
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389e023d4f4680d0800000000000000
+      internalID: -3420959673970419652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_168
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe65997072fc410800000000000000
+      internalID: 1499460114528530207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_169
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 68
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80672d8e8a7daa0800000000000000
+      internalID: -6136250249352181554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_170
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 68
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d3e533b1523f60800000000000000
+      internalID: 8012556517190652207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_171
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 67
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd79cb3ec1213f0800000000000000
+      internalID: -931650408465048453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 68
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb6a5d5faa4f490800000000000000
+      internalID: -7713352288950632609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88758f9a057b76b20800000000000000
+      internalID: 3127670023308990344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_174
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1967d4f9ab1661960800000000000000
+      internalID: 7572347277634533009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_175
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2919a4c6450c60800000000000000
+      internalID: 7783705341444304817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_176
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06119b112afa3b430800000000000000
+      internalID: 3797572021420364128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd9a0c498e36f780800000000000000
+      internalID: -8649657274911253067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_178
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 39
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42605b30157ac0b80800000000000000
+      internalID: -8427176836320655836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_179
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 37
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d6de66a26ecc60800000000000000
+      internalID: 7840312468262277139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_180
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 39
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8884c11c2505e0800000000000000
+      internalID: -1944099209317151588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_181
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 37
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d9bb6bbbc50aa0800000000000000
+      internalID: -6195321706551585506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_182
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7711fff8418275b0800000000000000
+      internalID: -5372089254967961730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_183
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7354c96bd6d1cfae0800000000000000
+      internalID: -1514303017650993865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_184
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a83fdc4ac67340800000000000000
+      internalID: 4861295279304386677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_185
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 13
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c001d0764436d56e0800000000000000
+      internalID: -1847211126714200052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_186
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704c2dfe17829d080800000000000000
+      internalID: -9162247497088580601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_187
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 13
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e6dff77f03c230800000000000000
+      internalID: 3657784330422774080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_188
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 14
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538f2f0ada84c480800000000000000
+      internalID: -8879819896105499812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_189
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 16
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ef7b16f79820e0800000000000000
+      internalID: -2294416926866152298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_190
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e852c5fe0506550800000000000000
+      internalID: 6152006079961468435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_191
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa63047b452ac40800000000000000
+      internalID: 5522069239142722229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_192
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 7
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6664a1df61df00800000000000000
+      internalID: 1139815126898470254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Lyra_193
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c975081ff49b9480800000000000000
+      internalID: -8891349215972329021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
