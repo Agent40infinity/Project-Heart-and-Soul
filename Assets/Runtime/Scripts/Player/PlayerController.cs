@@ -1,11 +1,11 @@
 ﻿using System;
-using System.Collections;
+using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 
 namespace Player
 {
-    public class PlayerController : MonoBehaviour
+    public class PlayerController : MonoBehaviour, IPlayer
     {
         private Dictionary<KeyCode, Vector3> keyDict = new Dictionary<KeyCode, Vector3>()
         {
@@ -15,48 +15,55 @@ namespace Player
             { KeyCode.D, new Vector3(1, 0, 0) },
         };
 
-        private KeyCode lastKey = KeyCode.None;
+        public List<KeyCode> lastKeys = new List<KeyCode>();
 
         public float playerSpeed = 2f;
         private Vector3 toMove = new Vector3();
 
-        public bool running = false;
+        private bool running = false;
+
+        public Vector3 CurrentKey()
+            => lastKeys.Count() > 0 ? keyDict[lastKeys.Last()] : Vector3.zero;
+
+        public KeyCode LastKey;
+
+        public Vector3 FuturePos()
+            => toMove - transform.position;
+
+        public bool Running()
+            => running;
 
         public void Update()
         {
+            GetInput();
             Physics();
         }
 
-        public void OnGUI()
-        {
-            GetInput();
-        }
         public void GetInput()
         {
-            if (Input.anyKey)
+            foreach (var key in keyDict.Keys)
             {
-                var current = Event.current.keyCode;
-
-                if (!keyDict.ContainsKey(current))
+                if (Input.GetKeyDown(key))
                 {
-                    return;
+                    lastKeys.Add(key);
+                    LastKey = key;
                 }
 
-                running = Event.current.shift;
-
-                lastKey = Event.current.keyCode;
-                return;
+                if (Input.GetKeyUp(key))
+                {
+                    lastKeys.Remove(key);
+                }
             }
 
-            lastKey = KeyCode.None;
+            running = Input.GetKey(KeyCode.LeftShift);
         }
 
         public void Physics()
         {
-            if (lastKey != KeyCode.None)
+            if (lastKeys.Count > 0)
             {
                 toMove = transform.position;
-                toMove += keyDict[lastKey];
+                toMove += keyDict[lastKeys.Last()];
             }
 
             transform.position = Vector3.MoveTowards(transform.position, toMove, (running ? playerSpeed * 2 : playerSpeed) * Time.deltaTime);
