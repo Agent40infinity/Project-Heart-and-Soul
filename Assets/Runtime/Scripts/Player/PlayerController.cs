@@ -7,7 +7,7 @@ namespace Player
 {
     public class PlayerController : MonoBehaviour, IPlayer
     {
-        private Dictionary<KeyCode, Vector3> keyDict = new Dictionary<KeyCode, Vector3>()
+        public static Dictionary<KeyCode, Vector3> keyDict = new Dictionary<KeyCode, Vector3>()
         {
             { KeyCode.W, new Vector3(0, 0, 1) },
             { KeyCode.A, new Vector3(-1, 0, 0) },
@@ -60,13 +60,7 @@ namespace Player
 
         public void Physics()
         {
-            if (lastKeys.Count > 0)
-            {
-                toMove = transform.position;
-                toMove += keyDict[lastKeys.Last()];
-            }
-
-            transform.position = Vector3.MoveTowards(transform.position, toMove, (running ? playerSpeed * 2 : playerSpeed) * Time.deltaTime);
+            transform.position = OverworldPhysics.Update(lastKeys, transform, ref toMove, playerSpeed, running);
         }
     }
 }

@@ -6,6 +6,7 @@ namespace Player
 {
     public interface IPlayer
     {
+        Vector3 CurrentKey();
         Vector3 FuturePos();
         bool Running();
     }
