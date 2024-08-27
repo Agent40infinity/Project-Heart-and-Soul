@@ -585,7 +585,7 @@ TextureImporter:
       213: -8891349215972329021
     second: DS DSi - Pokemon HeartGold SoulSilver - Lyra_193
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -602,9 +602,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -636,10 +639,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -651,6 +659,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -663,6 +672,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -675,6 +685,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -4764,9 +4788,203 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_10: -2435364914175678984
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_100: -8995565100074486816
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_101: 6008342266456657667
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_102: -8683447792744843665
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_103: 5989710433896168623
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_104: 6086038725271273066
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_105: 1376282369921908911
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_106: 6844419162352068142
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_107: -2894066658592292240
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_108: 9072093282968349068
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_109: -6933433252087195578
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_11: -1014919462613799634
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_110: 2515041420598512485
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_111: 3906006940438907857
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_112: -4506902608942943276
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_113: -894346264172942174
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_114: 1120262778208330913
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_115: 9034558520429232182
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_116: -11093543787124156
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_117: -4014800450292126426
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_118: 645591619392761913
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_119: 8505610001920650742
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_12: -5580034547347919137
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_120: -1106022639694360442
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_121: 1698898320783724531
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_122: -2254921057821342785
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_123: 703109183971197366
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_124: 439460449616981846
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_125: 3939682966197742911
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_126: -4786735868212935782
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_127: 5602020079441453372
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_128: -25790101625280797
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_129: -4985340683873829201
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_13: 7603702495458486378
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_130: -5177580237556144502
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_131: 2444328709516304731
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_132: 324594934103953192
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_133: -5261341346095689318
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_134: 770813576431711874
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_135: 2331012585475836447
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_136: -7077271625951790046
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_137: -3219843493553567852
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_138: -2669446100916489071
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_139: 7545000853441057780
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_140: 6276908497654410705
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_141: -5216973319563908226
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_142: 8227410153487694140
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_143: -6967967941537967415
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_144: -4861016173558780924
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_145: 3700525348075040444
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_146: 1032026848379131108
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_147: -3861951424321561419
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_148: -9018258794116594873
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_149: 2270093115981330579
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_150: 549505810366772522
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_151: -7913192152573657435
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_152: 3352840718799297187
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_153: -3077580016787485168
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_154: 8615674940318706570
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_155: 1243299255726102755
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_156: -8576153774783036605
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_157: -9196541439934275949
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_158: -3366225361874045138
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_159: 9152790662001292592
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_160: 1348109182397487290
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_161: -1728461290353108226
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_162: 3541918310927715232
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_163: 1039636169305010098
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_164: -3972679388638730806
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_165: -2773773030433074223
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_166: 76931954373197980
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_167: -3420959673970419652
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_168: 1499460114528530207
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_169: -6136250249352181554
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_170: 8012556517190652207
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_171: -931650408465048453
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_172: -7713352288950632609
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_173: 3127670023308990344
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_174: 7572347277634533009
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_175: 7783705341444304817
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_176: 3797572021420364128
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_177: -8649657274911253067
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_178: -8427176836320655836
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_179: 7840312468262277139
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_180: -1944099209317151588
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_181: -6195321706551585506
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_182: -5372089254967961730
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_183: -1514303017650993865
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_184: 4861295279304386677
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_185: -1847211126714200052
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_186: -9162247497088580601
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_187: 3657784330422774080
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_188: -8879819896105499812
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_189: -2294416926866152298
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_190: 6152006079961468435
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_191: 5522069239142722229
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_192: 1139815126898470254
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_193: -8891349215972329021
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_20: 5854980460747791219
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_21: -4591701476860077282
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_22: 1410002547569727583
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_23: -1696962980383595752
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_24: -7463937343837324724
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_25: -517344697326203899
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_26: 5130819045563750427
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_33: -1564844528002748533
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_34: 4189696074848981811
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_35: -1033832753636526294
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_36: -1725636679094637280
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_37: 1652578449998635874
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_38: 7990873351236155528
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_39: 846827153563883459
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_46: -5463841634924047444
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_47: 6014051398331590662
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_48: -6136103165363005389
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_49: 2620411546088970690
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_50: -2771366538933361480
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_51: -5085564467814562214
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_52: -1155407434275289824
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_53: -277021241229339942
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_54: 8179726387633243296
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_55: 6583854110333566467
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_56: -6911136882864377896
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_57: 7700317647638826625
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_58: -3747048004967732577
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_59: -1352143541957069742
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_6: 2358197906943135781
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_60: -485787574938366447
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_61: -8988471943524267443
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_62: 8574350669320346644
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_63: -1150298499708173669
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_64: 5916277924175324504
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_65: -3395062838562388836
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_66: -7749122825707766568
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_67: 1348987266279461800
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_68: -794798337540116648
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_69: -5433416799460373896
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_7: -7929082722435939892
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_70: -8706309193690068080
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_71: -6973526164083842064
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_72: -4076699914788023933
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_73: 7522913709112618263
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_74: -6459681651368571557
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_75: -8655176393957134846
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_76: 5419673890582521871
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_77: 3534653696358482758
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_78: -6461760643080914517
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_79: 4029589440818335329
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_8: 6294701292797705689
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_80: 5108366191911276445
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_81: -222780766117634076
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_82: 8656438718318124661
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_83: -7953628681623180488
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_84: 8199971163351738220
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_85: 7010566310159195914
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_86: 8147829279090005808
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_87: -7092267388678488616
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_88: -7667342354157352838
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_89: -5218561206942706863
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_9: -919543895973351195
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_90: -8032159399660501247
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_91: -8801304440104443587
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_92: 1378386807665996531
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_93: 8185332005189657340
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_94: -8644145759197749698
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_95: -148432940179026187
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_96: -5622286194832442677
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_97: -5271208988310203120
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_98: -7645296050531155772
+      DS DSi - Pokemon HeartGold SoulSilver - Lyra_99: -6153638858540800500
+      Lyra_Run_Down_1: -9100722291753044023
+      Lyra_Run_Down_2: -1735044329910364543
+      Lyra_Run_Down_3: 2239858069431579587
+      Lyra_Run_Left_1: 7494731399023239684
+      Lyra_Run_Left_2: -6723310748275628115
+      Lyra_Run_Left_3: -9011470313927360700
+      Lyra_Run_Right_1: 1263813147397884899
+      Lyra_Run_Right_2: -3155170788881835028
+      Lyra_Run_Right_3: -9122477858533228738
+      Lyra_Run_Up_1: -8358292336289655299
+      Lyra_Run_Up_2: -8993491572896565682
+      Lyra_Run_Up_3: -4088213169612402145
+      Lyra_Walk_Down_1: -2153582465023993775
+      Lyra_Walk_Down_2: -4419848178652131028
+      Lyra_Walk_Down_3: -2966878773248571612
+      Lyra_Walk_Left_1: 8559423210603812336
+      Lyra_Walk_Left_2: 240148311220254553
+      Lyra_Walk_Left_3: 4289623176444264365
+      Lyra_Walk_Right_1: 4620363527619933584
+      Lyra_Walk_Right_2: -4789788605247384009
+      Lyra_Walk_Right_3: 3887451968015781553
+      Lyra_Walk_Up_1: 115497682948043875
+      Lyra_Walk_Up_2: 7167932987310970414
+      Lyra_Walk_Up_3: 3336377043478558528
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
