@@ -1,27 +1,31 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Runtime.Overworld;
 
-namespace Player
+namespace Runtime.Player
 {
     public class PlayerFollower : MonoBehaviour
     {
         IPlayer player;
+
+        public Vector3 toMove = Vector3.zero;
 
         public void Awake()
         {
             player = GameObject.Find("Player").GetComponent<IPlayer>();
         }
 
-        // Update is called once per frame
         void Update()
         {
-            if (player.CurrentKey() == Vector3.zero)
+            if (transform.position != player.PastPos())
             {
-                return;
+                toMove = player.PastPos();
+                toMove.x = Mathf.Round(toMove.x);
+                toMove.z = Mathf.Round(toMove.z);
             }
 
-            
+            transform.position = OverworldPhysics.Update(transform, ref toMove, player.Speed(), player.Running());
         }
     }
 }

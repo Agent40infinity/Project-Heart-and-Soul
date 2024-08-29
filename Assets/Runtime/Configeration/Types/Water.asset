@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 221cffb7a1b702f4bb60fe0ba5e29c62, type: 3}
-  m_Name: New Type
+  m_Name: Water
   m_EditorClassIdentifier: 
-  typeName: 
+  typeName: Water
   effective:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: bca2132cbb947794696b0a2a59714da7, type: 2}
   weakness:
   - {fileID: 0}
-  immunity:
-  - {fileID: 0}
+  immunity: []

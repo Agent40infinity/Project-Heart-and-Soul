@@ -1,69 +1,44 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "New Pokemon", order = 0)]
-public class Pokemon : ScriptableObject
+[Serializable] public class Pokemon
 {
-    [Header("Pokedex")]
-    public int regionalID;
-    public int NationalID;
+    [Header("Identification")]
+    public string nickname;
+    public string oT;
+
+    [Header("Description")]
+    public Pokeball caughtWith;
+    public string metDate;
+    public string metDescription;
+    public string personality;
 
     [Header("Information")]
-    public string pokemonName;
-    public Type primaryType;
-    public Type secondaryType;
+    public Gender gender;
+    public Nature nature;
+    public Ability ability;
+    public bool shiny;
 
     [Header("Details")]
-    public ExpType expType;
-    public float genderRatio;
-    public string classification;
-    public string flavorText;
-    public int captureRate;
-    public int baseHappiness;
+    public int happiness;
+    public Item heldItem;
 
-    [Header("Possible Abilities")]
-    public List<Ability> abilities;
+    [Header("Experience")]
+    public int exp;
 
-    [Header("Base Stats")]
-    public int hP;
-    public int attack;
-    public int defense;
-    public int specialAtk;
-    public int specialDef;
-    public int speed;
+    [Header("IVs & EVs")]
+    public int[] iVs;
+    public int[] eVs;
 
-    [Header("Evolution")]
-    public List<Evolution> evolution;
-
-    [Header("Moveset & Learnable Moves")]
-    public List<Moveset> moveset;
-    public List<Move> learnables;
+    [Header("Learnt Moves")]
+    public Move[] moves;
 }
 
-[Serializable] public class Evolution
+public enum Gender
 {
-    //[Header("Details")]
-    public Pokemon evolution;
-    public int evoLevel;
-
-    //[Header("Is Item Evolution?")]
-    public bool itemRequired;
-    public Item item;
-
-    //[Header("Is Conditional?")]
-    public bool specialCondition;
-    public Condition condition;
-}
-
-public enum EggGroup
-{ 
-    
-}
-
-[Serializable] public class ExpType
-{
-    public Leveling type;
-
-    public enum Leveling { Erratic, Fast, MediumFast, MediumSlow, Slow, Fluctuating }
+    Male,
+    Female,
+    Genderless,
 }

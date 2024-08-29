@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Player
+namespace Runtime.Player
 {
     public interface IPlayer
     {
         Vector3 CurrentKey();
         Vector3 FuturePos();
+        Vector3 PastPos();
         bool Running();
+        float Speed();
     }
 }
