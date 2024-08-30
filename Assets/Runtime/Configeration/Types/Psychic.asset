@@ -10,15 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 221cffb7a1b702f4bb60fe0ba5e29c62, type: 3}
-  m_Name: Water
+  m_Name: Psychic
   m_EditorClassIdentifier: 
-  typeName: Water
+  typeName: Psychic
   effective:
-  - {fileID: 11400000, guid: bca2132cbb947794696b0a2a59714da7, type: 2}
-  - {fileID: 11400000, guid: a60aacb4708becd4c973d5b014b0cb6c, type: 2}
-  - {fileID: 11400000, guid: 3434adbf78d99604e9b909067e12caa4, type: 2}
+  - {fileID: 11400000, guid: ee33dfb63592d7142be7bd28199f5b5f, type: 2}
+  - {fileID: 11400000, guid: 0d4d3d310e831434392d3d37d14f51f9, type: 2}
   weakness:
   - {fileID: 11400000}
-  - {fileID: 11400000, guid: 9c5a9d9deca619e4cb8497e88c1b0ef3, type: 2}
-  - {fileID: 11400000, guid: 0ebe36ffe544bcc41946b198b2cf0324, type: 2}
-  immunity: []
+  - {fileID: 11400000, guid: f7d0497977db53b4a9db81689689d770, type: 2}
+  immunity:
+  - {fileID: 11400000, guid: 01e1a33b05bb4864297e80aa3bd68b06, type: 2}

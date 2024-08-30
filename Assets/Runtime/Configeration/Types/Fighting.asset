@@ -10,19 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 221cffb7a1b702f4bb60fe0ba5e29c62, type: 3}
-  m_Name: Grass
+  m_Name: Fighting
   m_EditorClassIdentifier: 
-  typeName: Grass
+  typeName: Fighting
   effective:
-  - {fileID: 11400000, guid: e1ef2f4d0e276d44799d9bb198de5a71, type: 2}
-  - {fileID: 11400000, guid: a60aacb4708becd4c973d5b014b0cb6c, type: 2}
+  - {fileID: 11400000, guid: 9a8e9c26195f0064cb414d42538b4fcf, type: 2}
+  - {fileID: 11400000, guid: 393cbf79db384834aa2ff319d360c969, type: 2}
   - {fileID: 11400000, guid: 3434adbf78d99604e9b909067e12caa4, type: 2}
+  - {fileID: 11400000, guid: 01e1a33b05bb4864297e80aa3bd68b06, type: 2}
+  - {fileID: 11400000, guid: f7d0497977db53b4a9db81689689d770, type: 2}
   weakness:
-  - {fileID: 11400000, guid: bca2132cbb947794696b0a2a59714da7, type: 2}
-  - {fileID: 11400000}
   - {fileID: 11400000, guid: 0d4d3d310e831434392d3d37d14f51f9, type: 2}
   - {fileID: 11400000, guid: 8bcb35c9b447e584597a003291e2c5ea, type: 2}
+  - {fileID: 11400000, guid: 397c8674ef5d6114fb50ca3598cde708, type: 2}
   - {fileID: 11400000, guid: f6a2cd910adeaba449abb061f1fd0897, type: 2}
-  - {fileID: 11400000, guid: 0ebe36ffe544bcc41946b198b2cf0324, type: 2}
-  - {fileID: 11400000, guid: f7d0497977db53b4a9db81689689d770, type: 2}
-  immunity: []
+  - {fileID: 11400000, guid: 0c69c7f31de235f4884eb5045f4762f4, type: 2}
+  immunity:
+  - {fileID: 11400000, guid: b33f3ada04db3cb41acef4d74d3632ce, type: 2}

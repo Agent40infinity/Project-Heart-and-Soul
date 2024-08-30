@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 221cffb7a1b702f4bb60fe0ba5e29c62, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  typeName: Dragon
+  effective:
+  - {fileID: 11400000}
+  weakness:
+  - {fileID: 11400000, guid: f7d0497977db53b4a9db81689689d770, type: 2}
+  immunity:
+  - {fileID: 11400000, guid: 0c69c7f31de235f4884eb5045f4762f4, type: 2}
