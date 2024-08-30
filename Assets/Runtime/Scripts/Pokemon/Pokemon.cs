@@ -8,6 +8,7 @@ using UnityEngine;
     [Header("Identification")]
     public string nickname;
     public string oT;
+    public PokemonBase origin;
 
     [Header("Description")]
     public Pokeball caughtWith;
@@ -26,6 +27,7 @@ using UnityEngine;
     public Item heldItem;
 
     [Header("Experience")]
+    public int level;
     public int exp;
 
     [Header("IVs & EVs")]
@@ -34,6 +36,19 @@ using UnityEngine;
 
     [Header("Learnt Moves")]
     public Move[] moves;
+
+    public int HP()
+        => 0;
+    public int Atk() 
+        => 0;
+    public int Def() 
+        => 0;
+    public int SpAtk() 
+        => 0;
+    public int SpDef() 
+        => 0;
+    public int Spd() 
+        => 0;
 }
 
 public enum Gender
