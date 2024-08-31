@@ -25,8 +25,7 @@ namespace Runtime.Player
 
         public void Update()
         {
-            anim.SetFloat("velocityX", player.FuturePos().x);
-            anim.SetFloat("velocityY", player.FuturePos().z);
+            anim.SetBool("moving", player.IsMoving());
             anim.SetBool("running", player.Running());
 
             DetermineLastFacing();
@@ -36,20 +35,20 @@ namespace Runtime.Player
 
         public void DetermineLastFacing()
         {
-            var dir = player.FuturePos();
+            var dir = player.CurrentKey();
 
             switch (true)
             {
-                case var _ when dir.x <= -0.9:
+                case var _ when dir.x == -1:
                     facing = 2;
                     break;
-                case var _ when dir.x >= 0.9:
+                case var _ when dir.x == 1:
                     facing = 4;
                     break;
-                case var _ when dir.z >= 0.9:
+                case var _ when dir.z == 1:
                     facing = 1;
                     break;
-                case var _ when dir.z <= -0.9:
+                case var _ when dir.z == -1:
                     facing = 3;
                     break;
             }

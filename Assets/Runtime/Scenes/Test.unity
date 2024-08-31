@@ -209,7 +209,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0.1725308, y: 0, z: 0, w: 0.9850042}
-  m_LocalPosition: {x: 0, y: 3.16, z: -5.2}
+  m_LocalPosition: {x: 0, y: 4.26, z: -9.72}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -314,8 +314,8 @@ Transform:
   m_GameObject: {fileID: 675096087}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.91, z: 0}
-  m_LocalScale: {x: 11, y: 1, z: 11}
+  m_LocalPosition: {x: 0, y: -1.28, z: 0}
+  m_LocalScale: {x: 21, y: 1, z: 21}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -330,8 +330,9 @@ GameObject:
   m_Component:
   - component: {fileID: 785119702}
   - component: {fileID: 785119703}
+  - component: {fileID: 785119704}
   m_Layer: 0
-  m_Name: Sprite
+  m_Name: PokemonSprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -346,7 +347,7 @@ Transform:
   m_GameObject: {fileID: 785119701}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.15, z: 0}
+  m_LocalPosition: {x: 0, y: -0.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -404,6 +405,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &785119704
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 785119701}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0dc0d06f749625e47b214d10a809a1af, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1251640422
 GameObject:
   m_ObjectHideFlags: 0
@@ -433,6 +455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 526646d300c6fd940bdc36ae090adf67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  facing: 2
   toMove: {x: 0, y: 0, z: 0}
 --- !u!4 &1251640424
 Transform:
@@ -443,7 +466,7 @@ Transform:
   m_GameObject: {fileID: 1251640422}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1, y: 0, z: 0}
+  m_LocalPosition: {x: 1, y: -0.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -710,7 +733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lastKeys: 
   LastKey: 0
-  playerSpeed: 2
+  playerSpeed: 3
 --- !u!212 &2117953172
 SpriteRenderer:
   m_ObjectHideFlags: 0

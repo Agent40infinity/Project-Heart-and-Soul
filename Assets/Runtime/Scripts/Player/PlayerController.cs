@@ -28,11 +28,11 @@ namespace Runtime.Player
         public Vector3 CurrentKey()
             => lastKeys.Count() > 0 ? keyDict[lastKeys.Last()] : Vector3.zero;
 
-        public Vector3 FuturePos()
-            => toMove - transform.position;
-
         public Vector3 PastPos()
-            => transform.position - keyDict[LastKey];
+            => toMove - keyDict[LastKey];
+
+        public bool IsMoving()
+            => !OverworldPhysics.WithinTile(toMove, transform) || lastKeys.Count > 0;
 
         public bool Running()
             => running;
@@ -67,14 +67,19 @@ namespace Runtime.Player
 
         public void Physics()
         {
-            if (lastKeys.Count > 0)
-            {
-                toMove = transform.position;
-                toMove += keyDict[lastKeys.Last()];
-                toMove.x = Mathf.Round(toMove.x);
-                toMove.z = Mathf.Round(toMove.z);
-            }
+            Debug.Log("Moving: "+ IsMoving());
+            Debug.Log(!OverworldPhysics.WithinTile(toMove, transform));
 
+            if (OverworldPhysics.WithinTile(toMove, transform))
+            {
+                if (lastKeys.Count > 0)
+                {
+                    toMove = transform.position;
+                    toMove += keyDict[lastKeys.Last()];
+                    OverworldPhysics.RoundTowards(toMove);
+                }
+            }
+           
             transform.position = OverworldPhysics.Update(transform, ref toMove, playerSpeed, running);
         }
     }

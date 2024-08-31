@@ -55,10 +55,29 @@ namespace Agent.SOE
                 menu.AddItem(new GUIContent("New Type"), AssemblyTypes.OfType(typeof(ScriptableObject), selectedType), function, typeof(ScriptableObject));
                 menu.AddSeparator("");
 
-                foreach (var item in AssemblyTypes.GetAllTypes())
+                foreach (var type in AssemblyTypes.GetAllTypes())
                 {
-                    menu.AddItem(new GUIContent(item.ToString()), AssemblyTypes.OfType(item, selectedType), function, item);
+                    var typeName = AssemblyTypes.ConvertTypeToDirectory(type.ToString());
+
+                    switch (true)
+                    {
+                        case bool _ when typeName.Contains("Unity/"):
+                            typeName = "Unity/" + typeName;
+                            break;
+                        case bool _ when typeName.Contains("UnityEditor"):
+                            typeName = "Unity/UnityEditor/" + typeName;
+                            break;
+                        case bool _ when typeName.Contains("UnityEngine"):
+                            typeName = "Unity/UnityEngine/" + typeName;
+                            break;
+                        case bool _ when typeName.Contains("TMPro"):
+                            typeName = "Unity/TMPro/" + typeName;
+                            break;
+                    }
+
+                    menu.AddItem(new GUIContent(typeName), AssemblyTypes.OfType(type, selectedType), function, type);
                 }
+
                 menu.DropDown(typeButton);
             }
             if (Event.current.type == EventType.Repaint) typeButton = GUILayoutUtility.GetLastRect();
