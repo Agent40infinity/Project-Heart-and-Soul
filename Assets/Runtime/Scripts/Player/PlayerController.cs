@@ -67,9 +67,6 @@ namespace Runtime.Player
 
         public void Physics()
         {
-            Debug.Log("Moving: "+ IsMoving());
-            Debug.Log(!OverworldPhysics.WithinTile(toMove, transform));
-
             if (OverworldPhysics.WithinTile(toMove, transform))
             {
                 if (lastKeys.Count > 0)
