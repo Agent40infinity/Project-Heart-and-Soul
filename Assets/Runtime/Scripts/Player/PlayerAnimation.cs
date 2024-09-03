@@ -35,20 +35,20 @@ namespace Runtime.Player
 
         public void DetermineLastFacing()
         {
-            var dir = player.CurrentKey();
+            var dir = player.FutureDist();
 
             switch (true)
             {
-                case var _ when dir.x == -1:
+                case var _ when dir.x < 0:
                     facing = 2;
                     break;
-                case var _ when dir.x == 1:
+                case var _ when dir.x > 0:
                     facing = 4;
                     break;
-                case var _ when dir.z == 1:
+                case var _ when dir.z > 0:
                     facing = 1;
                     break;
-                case var _ when dir.z == -1:
+                case var _ when dir.z < 0:
                     facing = 3;
                     break;
             }

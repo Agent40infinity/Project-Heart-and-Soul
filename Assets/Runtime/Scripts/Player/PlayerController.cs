@@ -28,6 +28,9 @@ namespace Runtime.Player
         public Vector3 CurrentKey()
             => lastKeys.Count() > 0 ? keyDict[lastKeys.Last()] : Vector3.zero;
 
+        public Vector3 FutureDist()
+            => toMove - transform.position;
+
         public Vector3 PastPos()
             => toMove - keyDict[LastKey];
 

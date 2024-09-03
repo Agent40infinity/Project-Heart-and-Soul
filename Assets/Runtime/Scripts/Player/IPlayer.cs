@@ -6,7 +6,7 @@ namespace Runtime.Player
 {
     public interface IPlayer
     {
-        Vector3 CurrentKey();
+        Vector3 FutureDist();
         Vector3 PastPos();
         bool Running();
         float Speed();

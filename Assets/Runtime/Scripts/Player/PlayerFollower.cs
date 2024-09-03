@@ -46,10 +46,10 @@ namespace Runtime.Player
                 case var _ when toMove.x < transform.position.x:
                     facing = 4;
                     break;
-                case var _ when toMove.y < transform.position.y:
+                case var _ when toMove.z > transform.position.z:
                     facing = 1;
                     break;
-                case var _ when toMove.y > transform.position.y:
+                case var _ when toMove.z < transform.position.z:
                     facing = 3;
                     break;
             }
