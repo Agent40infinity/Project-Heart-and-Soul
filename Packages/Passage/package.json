@@ -1,8 +1,8 @@
 {
   "name": "agent40.passage",
-  "displayName": "Passage - Scene Manager",
+  "displayName": "Passage",
   "version": "0.2.0",
   "unity": "2022.3",
-  "description": "Passage",
+  "description": "Passage - Scene Manager",
   "category": "System"
 }
