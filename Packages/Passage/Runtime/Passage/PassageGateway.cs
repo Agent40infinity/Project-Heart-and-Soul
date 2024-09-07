@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-[RequireComponent(typeof(BoxCollider2D))]
+[RequireComponent(typeof(BoxCollider))]
 public class PassageGateway : MonoBehaviour
 {
     public Passage passage;
@@ -33,11 +33,11 @@ public class PassageGateway : MonoBehaviour
         }
     }
 
-    private void OnDrawGizmos()
+    /*private void OnDrawGizmos()
     {
         Gizmos.color = Color.cyan;
 
-        BoxCollider2D col = GetComponent<BoxCollider2D>();
+        BoxCollider col = GetComponent<BoxCollider>();
         Gizmos.DrawWireCube(new Vector3(transform.position.x + col.offset.x, transform.position.y + col.offset.y, 0), new Vector3(col.size.x, col.size.y, 0));
-    }
+    }*/
 }
