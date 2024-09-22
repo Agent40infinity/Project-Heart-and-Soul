@@ -57,23 +57,7 @@ namespace Agent.SOE
 
                 foreach (var type in AssemblyTypes.GetAllTypes())
                 {
-                    var typeName = AssemblyTypes.ConvertTypeToDirectory(type.ToString());
-
-                    switch (true)
-                    {
-                        case bool _ when typeName.Contains("Unity/"):
-                            typeName = "Unity/" + typeName;
-                            break;
-                        case bool _ when typeName.Contains("UnityEditor"):
-                            typeName = "Unity/UnityEditor/" + typeName;
-                            break;
-                        case bool _ when typeName.Contains("UnityEngine"):
-                            typeName = "Unity/UnityEngine/" + typeName;
-                            break;
-                        case bool _ when typeName.Contains("TMPro"):
-                            typeName = "Unity/TMPro/" + typeName;
-                            break;
-                    }
+                    var typeName = AssemblyStrings.ConvertTypeToDirectory(type.ToString());
 
                     menu.AddItem(new GUIContent(typeName), AssemblyTypes.OfType(type, selectedType), function, type);
                 }
