@@ -7,6 +7,8 @@ namespace Agent.Assembly
 {
     public static class AssemblyTypes
     {
+        public static int RawScriptableCount;
+
         public static System.Type[] ReturnTypes()
         {
             List<System.Type> types = new List<System.Type>();
@@ -19,12 +21,25 @@ namespace Agent.Assembly
             return types.ToArray();
         }
 
-        public static string ConvertTypeToDirectory(string typeName)
-            => typeName.Replace(".", "/");
-
         public static ScriptableObject[] GetAllInstancesOfType(string activePath, System.Type activeType)
         {
             string[] guids = AssetDatabase.FindAssets("t:" + activeType.Name, new[] { activePath });
+            ScriptableObject[] so = new ScriptableObject[guids.Length];
+            for (int i = 0; i < guids.Length; i++)
+            {
+                string path = AssetDatabase.GUIDToAssetPath(guids[i]);
+                so[i] = (ScriptableObject)AssetDatabase.LoadAssetAtPath(path, activeType);
+            }
+            return so;
+        }
+
+        public static ScriptableObject[] GetAllInstancesOfType(string activePath, System.Type activeType, int pageIndex, int pageSize)
+        {
+            string[] rawGuids = AssetDatabase.FindAssets("t:" + activeType.Name, new[] { activePath });
+            RawScriptableCount = rawGuids.Length;
+
+            var guids = rawGuids.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToArray();
+
             ScriptableObject[] so = new ScriptableObject[guids.Length];
             for (int i = 0; i < guids.Length; i++)
             {
