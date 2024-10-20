@@ -16,12 +16,17 @@ namespace Agent.SOE
         protected string typeName = "New Type";
         protected Rect typeButton = new Rect();
 
-        private string createdPath = "";
-
         private void OnEnable()
         {
             ShowPopup();
             position = new Rect(position.x, position.y, position.width, 150);
+        }
+
+        public void Init(string path, System.Type type, Rect window)
+        {
+            selectedPath = path;
+            selectedType = type;
+            position = window;
         }
 
         private void OnGUI()
@@ -78,7 +83,7 @@ namespace Agent.SOE
 
             if (GUILayout.Button(new GUIContent("Create", "Create the new ScriptableObject with the selected folder, Type, & name.")))
             {
-                createdPath = Application.dataPath.Replace("Assets", "") + selectedPath + "/" + scriptableName + ".cs";
+                var createdPath = Application.dataPath.Replace("Assets", "") + selectedPath + "/" + scriptableName + ".cs";
 
                 switch (true)
                 {
@@ -100,7 +105,7 @@ namespace Agent.SOE
                         sw.Write(contents);
                         sw.Close();
                         AssetDatabase.Refresh();
-                        Created(true);
+                        Created(true, createdPath);
                         break;
                     default:
                         var type = selectedType;
@@ -108,7 +113,7 @@ namespace Agent.SOE
                         AssetDatabase.CreateAsset(newScriptable, selectedPath + "/" + scriptableName + ".asset");
                         AssetDatabase.SaveAssets();
                         AssetDatabase.Refresh();
-                        Created(false);
+                        Created(false, createdPath);
                         break;
                 }
             }
@@ -118,7 +123,7 @@ namespace Agent.SOE
             EditorGUILayout.EndHorizontal();
         }
 
-        public void Created(bool newType)
+        public void Created(bool newType, string path)
         {
             switch (newType)
             {
@@ -126,7 +131,7 @@ namespace Agent.SOE
                     switch (EditorUtility.DisplayDialog(typeName + " Created! ", typeName + " '" + scriptableName + "' has been successfully created! Would you like to open and modify it's contents?", "Yes", "No"))
                     {
                         case true:
-                            Application.OpenURL(createdPath);
+                            Application.OpenURL(path);
                             Close();
                             break;
                         case false:
