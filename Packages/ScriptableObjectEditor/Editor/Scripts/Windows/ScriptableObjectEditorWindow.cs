@@ -32,7 +32,7 @@ namespace Agent.SOE
 
         // Selected Type.
         protected System.Type activeType = typeof(ScriptableObject);
-        protected string typeName = "Scriptable Types";
+        protected string typeName = "ScriptableObjects";
         protected Rect typeButton;
 
         // Sidebar Menu
@@ -45,13 +45,16 @@ namespace Agent.SOE
 
         // Pagination
         protected bool pagination = true;
-        
+
         protected int pageIndex = 1;
         protected int pageSize = 100;
 
         // Settings
         protected enum EditorState { Scriptable, Settings, Creation };
         protected EditorState editorState = EditorState.Scriptable;
+
+        protected bool isInspectorSelection = false;
+        protected bool isRealtimeLoad = true;
 
         protected int PageIndexMax()
             => (int)Mathf.Ceil(AssemblyTypes.RawScriptableCount / (float)pageSize);
@@ -70,6 +73,10 @@ namespace Agent.SOE
             skin = (GUISkin)Resources.Load("ScriptableEditorGUI");
             titleContent.image = (Texture2D)Resources.Load("Images/Icon");
             UpdateObjects();
+
+            isInspectorSelection = System.Convert.ToBoolean(PlayerPrefs.GetInt("InspectorSelection"));
+            isRealtimeLoad = System.Convert.ToBoolean(PlayerPrefs.GetInt("realtimeLoad"));
+            pageSize = PlayerPrefs.GetInt("paginationPageSize");
         }
 
         private void OnGUI()
@@ -103,14 +110,6 @@ namespace Agent.SOE
             }
 
             EditorGUILayout.EndHorizontal();
-
-            if (activeObjects.Length > 0 && serializedObject != null)
-                Apply();
-        }
-
-        protected void Apply()
-        {
-            serializedObject.ApplyModifiedProperties();
         }
 
         private void WindowHandler()
@@ -166,12 +165,12 @@ namespace Agent.SOE
                     activePath = basePath;
                     UpdateObjects();
                 }
-
             }
 
             EditorGUILayout.LabelField(activePath);
 
             GUILayout.FlexibleSpace();
+
             if (GUILayout.Button(new GUIContent((Texture2D)Resources.Load("Images/Settings"), "Display the settings menu for the Scriptable Object Editor."), GUILayout.ExpandWidth(true), GUILayout.MaxHeight(EditorGUIUtility.singleLineHeight)))
             {
                 if (editorState == EditorState.Settings)
@@ -191,11 +190,13 @@ namespace Agent.SOE
         {
             EditorGUILayout.BeginVertical("box", GUILayout.MaxWidth(sidebarWidth), GUILayout.ExpandHeight(true));
 
+            EditorGUILayout.BeginHorizontal();
+            EditorGUILayout.LabelField("Type:", GUILayout.MaxWidth(30));
             if (EditorGUILayout.DropdownButton(new GUIContent(typeName, "Used to mask the type of ScriptableObject being searched for."), FocusType.Keyboard))
             {
                 GenericMenu menu = new GenericMenu();
 
-                var function = new GenericMenu.MenuFunction2((type) => { activeType = (System.Type)type; typeName = type.ToString(); if (activeType == typeof(ScriptableObject)) typeName = "All"; UpdateObjects(); });
+                var function = new GenericMenu.MenuFunction2((type) => { activeType = (System.Type)type; typeName = type.ToString(); if (activeType == typeof(ScriptableObject)) typeName = "All"; pageIndex = 1; UpdateObjects(); });
 
                 menu.AddItem(new GUIContent("All", "Display every type of ScriptableObject within the project."), AssemblyTypes.OfType(typeof(ScriptableObject), activeType), function, typeof(ScriptableObject));
                 menu.AddSeparator("");
@@ -209,6 +210,7 @@ namespace Agent.SOE
                 menu.DropDown(typeButton);
             }
             if (Event.current.type == EventType.Repaint) typeButton = GUILayoutUtility.GetLastRect();
+            EditorGUILayout.EndHorizontal();
 
             EditorGUILayout.BeginHorizontal();
             GUILayout.FlexibleSpace();
@@ -237,7 +239,7 @@ namespace Agent.SOE
             if (GUILayout.Button(new GUIContent("+", "Open the ScriptableObject creation menu."), GUILayout.Width(25)))
             {
                 CreationEditorWindow window = GetWindow<CreationEditorWindow>();
-                window.position = AssemblyTypes.CenterOnOriginWindow(window.position, position);
+                window.Init(activePath, activeType, AssemblyTypes.CenterOnOriginWindow(window.position, position));
             }
 
             EditorGUILayout.EndHorizontal();
@@ -283,7 +285,7 @@ namespace Agent.SOE
             EditorGUILayout.EndHorizontal();
 
             if (needsUpdating)
-            { 
+            {
                 UpdateObjects();
             }
         }
@@ -294,7 +296,7 @@ namespace Agent.SOE
             {
                 if (scriptable != null && scriptable.name.IndexOf(sortSearch, System.StringComparison.OrdinalIgnoreCase) >= 0)
                 {
-                    if (GUILayout.Button(AssemblyStrings.ShortenString(scriptable.name), skin.button, GUILayout.ExpandWidth(true)))
+                    if (GUILayout.Button(AssemblyStrings.ShortenString(scriptable.name), scriptable == selectedObject ? GetCustomStyle("selectedButton") : skin.button, GUILayout.ExpandWidth(true)))
                     {
                         if (Event.current.button == 1)
                         {
@@ -311,6 +313,12 @@ namespace Agent.SOE
                         {
                             selectedObject = scriptable;
                             serializedObject = new SerializedObject(selectedObject);
+
+                            if (isInspectorSelection)
+                            {
+                                Selection.activeObject = scriptable;
+                            }
+
                             editorState = EditorState.Scriptable;
                         }
                     }
@@ -327,22 +335,34 @@ namespace Agent.SOE
                 case bool _ when serializedObject != null && selectedObject != null:
                     itemScrollPosition = EditorGUILayout.BeginScrollView(itemScrollPosition, GUIStyle.none, GUI.skin.verticalScrollbar, GUILayout.ExpandHeight(true));
 
+                    bool isDirty = !isRealtimeLoad && serializedObject != null && UnityEditor.EditorUtility.IsDirty(serializedObject.targetObject);
+
                     EditorGUILayout.BeginHorizontal();
-                    EditorGUILayout.LabelField("<color=silver>Name:</color> " + serializedObject.FindProperty("m_Name").stringValue, GetCustomStyle("scriptableName"));
+                    EditorGUILayout.LabelField("<color=silver>Name:</color> " + serializedObject.FindProperty("m_Name").stringValue + (isDirty ? "*" : ""), GetCustomStyle("scriptableName"));
                     GUILayout.FlexibleSpace();
+                    GUILayout.FlexibleSpace();
+                    EditorGUILayout.LabelField(isDirty ? "Unsaved" : "");
 
                     if (GUILayout.Button(new GUIContent("Rename", "Use to rename the selected ScriptableObject."), GUILayout.Width(100)))
                     {
                         RenamePopup(selectedObject);
                     }
+
                     EditorGUILayout.EndHorizontal();
 
                     GUILayout.Space(EditorGUIUtility.singleLineHeight);
+
+                    EditorGUI.BeginChangeCheck();
 
                     serializedObject.UpdateIfRequiredOrScript();
                     serializedProperty = serializedObject.GetIterator();
                     serializedProperty.NextVisible(true);
                     DrawScriptableProperties(serializedProperty);
+
+                    if (EditorGUI.EndChangeCheck())
+                    {
+                        serializedObject.ApplyModifiedProperties();
+                    }
 
                     GUILayout.Space(EditorGUIUtility.singleLineHeight);
 
@@ -351,10 +371,7 @@ namespace Agent.SOE
                     EditorGUILayout.BeginHorizontal();
                     GUILayout.FlexibleSpace();
 
-                    var style = new GUIStyle(skin.button);
-                    style.normal.textColor = Color.red;
-
-                    if (GUILayout.Button(new GUIContent("Delete", "Use to delete the selected ScriptableObject."), style, GUILayout.Width(75)))
+                    if (GUILayout.Button(new GUIContent("Delete", "Use to delete the selected ScriptableObject."), GetCustomStyle("deleteButton"), GUILayout.Width(75)))
                     {
                         DeleteScriptableObject(selectedObject, true);
                     }
@@ -368,7 +385,7 @@ namespace Agent.SOE
 
             EditorGUILayout.EndVertical();
         }
-        
+
         protected void DrawScriptableProperties(SerializedProperty property)
         {
             if (property.displayName == "Script") { GUI.enabled = false; }
@@ -381,12 +398,45 @@ namespace Agent.SOE
             {
                 EditorGUILayout.PropertyField(property, true);
             }
-
         }
 
         protected void DisplayEditorSettings()
-        { 
-            
+        {
+            EditorGUILayout.BeginVertical("box", GUILayout.ExpandHeight(true));
+
+            EditorGUILayout.LabelField("Settings", GetCustomStyle("scriptableName"));
+
+            EditorGUILayout.Space(EditorGUIUtility.singleLineHeight);
+            EditorGUILayout.LabelField("<color=silver>Scriptables</color>", GetCustomStyle("settingsHeader"));
+
+            EditorGUILayout.BeginHorizontal();
+            EditorGUILayout.Space(15);
+            isInspectorSelection = EditorGUILayout.Toggle(new GUIContent("Select in Inspector:", "Anytime a Scriptable is selected in SOE, it'll be highlighted in the project and inspector."), isInspectorSelection);
+            PlayerPrefs.SetInt("InspectorSelection", System.Convert.ToInt32(isInspectorSelection));
+            GUILayout.FlexibleSpace();
+            EditorGUILayout.EndHorizontal();
+
+            EditorGUILayout.BeginHorizontal();
+            EditorGUILayout.Space(15);
+            isRealtimeLoad = EditorGUILayout.Toggle(new GUIContent("Saves in Real-time:", "Regardless of ticked, changes to objects are set dirty by default."), isRealtimeLoad);
+            PlayerPrefs.SetInt("realtimeLoad", System.Convert.ToInt32(isRealtimeLoad));
+            GUILayout.FlexibleSpace();
+            EditorGUILayout.EndHorizontal();
+
+            EditorGUILayout.Space(EditorGUIUtility.singleLineHeight);
+
+            EditorGUILayout.LabelField("<color=silver>Pagination</color>", GetCustomStyle("settingsHeader"));
+
+            EditorGUILayout.BeginHorizontal();
+            EditorGUILayout.Space(15);
+            pageSize = EditorGUILayout.IntField(new GUIContent("Page Size:", "How many scriptables will be displayed per page on the navigation sidebar."), pageSize);
+            pageSize = pageSize == 0 ? 1 : pageSize;
+            PlayerPrefs.SetInt("paginationPageSize", pageSize);
+            GUILayout.FlexibleSpace();
+            EditorGUILayout.EndHorizontal();
+            EditorGUILayout.Space(EditorGUIUtility.singleLineHeight);
+
+            EditorGUILayout.EndVertical();
         }
 
         protected void DeleteScriptableObject(Object selected, bool clearSelected)
