@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 using Runtime.Overworld;
@@ -21,9 +20,12 @@ namespace Runtime.Player
         public KeyCode LastKey;
 
         public float playerSpeed = 2f;
+
+        private List<Vector3> previousTiles = new List<Vector3>();
         private Vector3 toMove = new Vector3();
 
         private bool running = false;
+        private const int tileHistoryCap = 5;
 
         public Vector3 CurrentKey()
             => lastKeys.Count() > 0 ? keyDict[lastKeys.Last()] : Vector3.zero;
@@ -31,8 +33,8 @@ namespace Runtime.Player
         public Vector3 FutureDist()
             => toMove - transform.position;
 
-        public Vector3 PastPos()
-            => toMove - keyDict[LastKey];
+        public Vector3? PastPos()
+            => previousTiles.Count > 0 ? previousTiles[0] : null;
 
         public bool IsMoving()
             => !OverworldPhysics.WithinTile(toMove, transform) || lastKeys.Count > 0;
@@ -47,6 +49,11 @@ namespace Runtime.Player
         {
             GetInput();
             Physics();
+
+            if (previousTiles.Count > tileHistoryCap)
+            {
+                previousTiles.RemoveAt(tileHistoryCap);
+            }
         }
 
         public void GetInput()
@@ -74,6 +81,8 @@ namespace Runtime.Player
             {
                 if (lastKeys.Count > 0)
                 {
+                    previousTiles.Insert(0, transform.position);
+
                     toMove = transform.position;
                     toMove += keyDict[lastKeys.Last()];
                     OverworldPhysics.RoundTowards(toMove);

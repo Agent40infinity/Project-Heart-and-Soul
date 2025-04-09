@@ -36,3 +36,8 @@ MonoBehaviour:
       m_ScenePath: Assets/Runtime/Scenes/Routes/Route_31.unity
   area: 0
   connections: []
+  SceneRef:
+    sceneAsset: {fileID: 102900000, guid: 005098ffaf5c929438737db5cc94b3d8, type: 3}
+    scenePath: Assets/Runtime/Scenes/Caves/Bell_Tower_F6.unity
+    isDirty: 0
+  Scene: Assets/Runtime/Scenes/Test/Test.unity

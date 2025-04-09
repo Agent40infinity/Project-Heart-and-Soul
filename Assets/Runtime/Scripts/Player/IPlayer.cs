@@ -7,7 +7,7 @@ namespace Runtime.Player
     public interface IPlayer
     {
         Vector3 FutureDist();
-        Vector3 PastPos();
+        Vector3? PastPos();
         bool Running();
         float Speed();
         bool IsMoving();

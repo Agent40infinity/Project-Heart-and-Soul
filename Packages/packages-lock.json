@@ -1,15 +1,15 @@
 {
   "dependencies": {
     "agent40.passage": {
-      "version": "file:Passage",
+      "version": "file:D:/Data/Software/Github/Passage/Packages/Passage",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {}
     },
     "agent40.soe": {
-      "version": "file:ScriptableObjectEditor",
+      "version": "file:D:/Data/Software/Github/Scriptable-Object-Editor/Assets/Editor/ScriptableObjectEditor",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {}
     },
     "com.unity.2d.animation": {

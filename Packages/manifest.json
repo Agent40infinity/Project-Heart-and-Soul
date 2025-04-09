@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "agent40.passage": "file:D:/Data/Software/Github/Passage/Packages/Passage",
+    "agent40.soe": "file:D:/Data/Software/Github/Scriptable-Object-Editor/Assets/Editor/ScriptableObjectEditor",
     "com.unity.2d.animation": "9.0.4",
     "com.unity.2d.pixel-perfect": "5.0.3",
     "com.unity.2d.psdimporter": "8.0.3",

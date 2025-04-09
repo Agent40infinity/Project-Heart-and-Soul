@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 644dd68656295d6458c01a578c7a76e5, type: 3}
+  m_Name: Cyndaquil
+  m_EditorClassIdentifier: 
+  regionalID: 4
+  NationalID: 155
+  pokemonName: Cyndaquil
+  primaryType: {fileID: 11400000, guid: bca2132cbb947794696b0a2a59714da7, type: 2}
+  secondaryType: {fileID: 0}
+  expType:
+    type: 3
+  genderRatio: 87.5
+  classification: "Fire Mouse Pok\xE9mon"
+  flavorText: It is timid, and always curls itself up in a ball. If attacked, it
+    flares up its back for protection.
+  captureRate: 45
+  baseHappiness: 70
+  abilities:
+  - {fileID: 0}
+  hP: 39
+  attack: 52
+  defense: 43
+  specialAtk: 60
+  specialDef: 50
+  speed: 65
+  evolution:
+  - evolution:
+      nickname: 
+      oT: 
+      origin: {fileID: 0}
+      caughtWith: {fileID: 0}
+      metDate: 
+      metDescription: 
+      personality: 
+      gender: 0
+      nature: {fileID: 0}
+      ability: {fileID: 0}
+      shiny: 0
+      happiness: 0
+      heldItem: {fileID: 0}
+      level: 0
+      exp: 0
+      iVs: 
+      eVs: 
+      moves: []
+    evoLevel: 0
+    itemRequired: 0
+    item: {fileID: 0}
+    specialCondition: 0
+    condition: {fileID: 0}
+  moveset:
+  - level: 0
+    move: {fileID: 0}
+  learnables: []

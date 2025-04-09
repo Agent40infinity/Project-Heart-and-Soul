@@ -17,11 +17,15 @@ MonoBehaviour:
     value:
       m_SceneAsset: {fileID: 102900000, guid: 74251e79b9f51eb4dbce3313e9f170dc, type: 3}
       m_IsDirty: 0
-      m_ScenePath: Assets/Runtime/Scenes/TestHouse.unity
+      m_ScenePath: Assets/Runtime/Scenes/Test/TestHouse.unity
     alt: []
   area: 0
   connections:
-  - identity: TestHouseExit
+  - identity: Exit
     targetPassage:
       handle: {fileID: 11400000, guid: 6161765ac9fe1c7448494ea8927f677b, type: 2}
       connection: 0
+  SceneRef:
+    sceneAsset: {fileID: 0}
+    isDirty: 0
+    scenePath: 
