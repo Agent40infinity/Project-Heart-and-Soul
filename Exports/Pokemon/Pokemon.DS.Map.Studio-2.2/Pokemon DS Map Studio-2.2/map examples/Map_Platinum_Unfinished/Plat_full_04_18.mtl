@@ -1,0 +1,88 @@
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tree01_lm2
+map_Kd tree01_lm2.png
+map_d tree01_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl conttree_b_lm2
+map_Kd conttree_b_lm2.png
+map_d conttree_b_lm2.png
+
+newmtl conttree_t_lm2
+map_Kd conttree_t_lm2.png
+map_d conttree_t_lm2.png
+
+newmtl newstep_lm21
+map_Kd newstep_lm21.png
+map_d newstep_lm21.png
+
+newmtl imped_lm53
+map_Kd imped_lm53.png
+map_d imped_lm53.png
+
+newmtl c1_d_4_lm14
+map_Kd c1_d_4_lm14.png
+map_d c1_d_4_lm14.png
+
+newmtl c1_d_2_lm14
+map_Kd c1_d_2_lm14.png
+map_d c1_d_2_lm14.png
+
+newmtl c1_r1_lm18
+map_Kd c1_r1_lm18.png
+map_d c1_r1_lm18.png
+
+newmtl c1_f_ud_lm14
+map_Kd c1_f_ud_lm14.png
+map_d c1_f_ud_lm14.png
+
+newmtl c1_f_k1_lm14
+map_Kd c1_f_k1_lm14.png
+map_d c1_f_k1_lm14.png
+
+newmtl c1_f_l_lm14
+map_Kd c1_f_l_lm14.png
+map_d c1_f_l_lm14.png
+
+newmtl c1_f_r_lm13
+map_Kd c1_f_r_lm13.png
+map_d c1_f_r_lm13.png
+
+newmtl c1_f_k2_lm13
+map_Kd c1_f_k2_lm13.png
+map_d c1_f_k2_lm13.png
+
+newmtl c1_o02b_lm4
+map_Kd c1_o02b_lm4.png
+map_d c1_o02b_lm4.png
+
+newmtl c1_o02_lm4
+map_Kd c1_o02_lm4.png
+map_d c1_o02_lm4.png
+
+newmtl c1_g1_lm18
+map_Kd c1_g1_lm18.png
+map_d c1_g1_lm18.png
+
+newmtl c1_r1_s1_lm13
+map_Kd c1_r1_s1_lm13.png
+map_d c1_r1_s1_lm13.png
+
+newmtl c1_r1_k2_lm13
+map_Kd c1_r1_k2_lm13.png
+map_d c1_r1_k2_lm13.png
+
+newmtl c1_r1_k1_lm17
+map_Kd c1_r1_k1_lm17.png
+map_d c1_r1_k1_lm17.png
+
+newmtl c1_r1_ud_lm17
+map_Kd c1_r1_ud_lm17.png
+map_d c1_r1_ud_lm17.png
+

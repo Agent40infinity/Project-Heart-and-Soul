@@ -1,0 +1,92 @@
+newmtl nsandp_lm2
+map_Kd nsandp_lm2.png
+map_d nsandp_lm2.png
+
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl lakep_lm2
+map_Kd lakep_lm2.png
+map_d lakep_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl file1Material
+map_Kd file1Material.png
+map_d file1Material.png
+
+newmtl file2Material
+map_Kd file2Material.png
+map_d file2Material.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl seaside3_lm67
+map_Kd seaside3_lm67.png
+map_d seaside3_lm67.png
+
+newmtl sea_lm1
+map_Kd sea_lm1.png
+map_d sea_lm1.png
+
+newmtl nectgr_lm42
+map_Kd nectgr_lm42.png
+map_d nectgr_lm42.png
+
+newmtl plant2_lm2
+map_Kd plant2_lm2.png
+map_d plant2_lm2.png
+
+newmtl ckado_lm2
+map_Kd ckado_lm2.png
+map_d ckado_lm2.png
+
+newmtl wcliff_lm4
+map_Kd wcliff_lm4.png
+map_d wcliff_lm4.png
+
+newmtl hamabe_lm31
+map_Kd hamabe_lm31.png
+map_d hamabe_lm31.png
+
+newmtl hage_lm22
+map_Kd hage_lm22.png
+map_d hage_lm22.png
+
+newmtl c1_d_4_lm14
+map_Kd c1_d_4_lm14.png
+map_d c1_d_4_lm14.png
+
+newmtl c1_d_2_lm14
+map_Kd c1_d_2_lm14.png
+map_d c1_d_2_lm14.png
+
+newmtl c1_r1_lm18
+map_Kd c1_r1_lm18.png
+map_d c1_r1_lm18.png
+
+newmtl c1_r1_s1_lm13
+map_Kd c1_r1_s1_lm13.png
+map_d c1_r1_s1_lm13.png
+
+newmtl c1_r1_k2_lm13
+map_Kd c1_r1_k2_lm13.png
+map_d c1_r1_k2_lm13.png
+
+newmtl c4_road_r_lm1
+map_Kd c4_road_r_lm1.png
+map_d c4_road_r_lm1.png
+
+newmtl c4_road_k2_lm1
+map_Kd c4_road_k2_lm1.png
+map_d c4_road_k2_lm1.png
+
+newmtl c3_grand_lm27
+map_Kd c3_grand_lm27.png
+map_d c3_grand_lm27.png
+

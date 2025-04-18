@@ -1,0 +1,12 @@
+newmtl tree2_01_lm1
+map_Kd tree2_01_lm1.png
+map_d tree2_01_lm1.png
+
+newmtl ngrass_lm35
+map_Kd ngrass_lm35.png
+map_d ngrass_lm35.png
+
+newmtl tshadow_lm8
+map_Kd tshadow_lm8.png
+map_d tshadow_lm8.png
+

@@ -1,0 +1,376 @@
+newmtl nsand_lm2
+map_Kd nsand_lm2.png
+map_d nsand_lm2.png
+
+newmtl nsandp_lm2
+map_Kd nsandp_lm2.png
+map_d nsandp_lm2.png
+
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tree01_lm2
+map_Kd tree01_lm2.png
+map_d tree01_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl tree04_2_lm1
+map_Kd tree04_2_lm1.png
+map_d tree04_2_lm1.png
+
+newmtl s_snow_lm2
+map_Kd s_snow_lm2.png
+map_d s_snow_lm2.png
+
+newmtl lakep_lm2
+map_Kd lakep_lm2.png
+map_d lakep_lm2.png
+
+newmtl conttree_b_lm2
+map_Kd conttree_b_lm2.png
+map_d conttree_b_lm2.png
+
+newmtl conttree_t_lm2
+map_Kd conttree_t_lm2.png
+map_d conttree_t_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl file1Material
+map_Kd file1Material.png
+map_d file1Material.png
+
+newmtl file2Material
+map_Kd file2Material.png
+map_d file2Material.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl newstep_lm21
+map_Kd newstep_lm21.png
+map_d newstep_lm21.png
+
+newmtl allpeak
+map_Kd allpeak.png
+map_d allpeak.png
+
+newmtl shadowchip
+map_Kd shadowchip.png
+map_d shadowchip.png
+
+newmtl bridge
+map_Kd bridge.png
+map_d bridge.png
+
+newmtl seaside3_lm67
+map_Kd seaside3_lm67.png
+map_d seaside3_lm67.png
+
+newmtl lake_lm2
+map_Kd lake_lm2.png
+map_d lake_lm2.png
+
+newmtl sea_lm1
+map_Kd sea_lm1.png
+map_d sea_lm1.png
+
+newmtl nhana
+map_Kd nhana.png
+map_d nhana.png
+
+newmtl rhana
+map_Kd rhana.png
+map_d rhana.png
+
+newmtl shana
+map_Kd shana.png
+map_d shana.png
+
+newmtl s_snow03_lm2
+map_Kd s_snow03_lm2.png
+map_d s_snow03_lm2.png
+
+newmtl fenter_lm6
+map_Kd fenter_lm6.png
+map_d fenter_lm6.png
+
+newmtl nectgr_lm42
+map_Kd nectgr_lm42.png
+map_d nectgr_lm42.png
+
+newmtl plant2_lm2
+map_Kd plant2_lm2.png
+map_d plant2_lm2.png
+
+newmtl lgreenp_lm2
+map_Kd lgreenp_lm2.png
+map_d lgreenp_lm2.png
+
+newmtl lgreen_lm2
+map_Kd lgreen_lm2.png
+map_d lgreen_lm2.png
+
+newmtl ckado_lm2
+map_Kd ckado_lm2.png
+map_d ckado_lm2.png
+
+newmtl wcliff_lm4
+map_Kd wcliff_lm4.png
+map_d wcliff_lm4.png
+
+newmtl hamabe_lm31
+map_Kd hamabe_lm31.png
+map_d hamabe_lm31.png
+
+newmtl beach_lm33
+map_Kd beach_lm33.png
+map_d beach_lm33.png
+
+newmtl searock_lm15
+map_Kd searock_lm15.png
+map_d searock_lm15.png
+
+newmtl imped_lm53
+map_Kd imped_lm53.png
+map_d imped_lm53.png
+
+newmtl hage_lm22
+map_Kd hage_lm22.png
+map_d hage_lm22.png
+
+newmtl beachp_lm23
+map_Kd beachp_lm23.png
+map_d beachp_lm23.png
+
+newmtl asasea_lm25
+map_Kd asasea_lm25.png
+map_d asasea_lm25.png
+
+newmtl cyclestop_lm3
+map_Kd cyclestop_lm3.png
+map_d cyclestop_lm3.png
+
+newmtl dhole_lm13
+map_Kd dhole_lm13.png
+map_d dhole_lm13.png
+
+newmtl c1_d_4_lm14
+map_Kd c1_d_4_lm14.png
+map_d c1_d_4_lm14.png
+
+newmtl c1_d_2_lm14
+map_Kd c1_d_2_lm14.png
+map_d c1_d_2_lm14.png
+
+newmtl c1_r1_lm18
+map_Kd c1_r1_lm18.png
+map_d c1_r1_lm18.png
+
+newmtl c1_f_ud_lm14
+map_Kd c1_f_ud_lm14.png
+map_d c1_f_ud_lm14.png
+
+newmtl c1_f_k1_lm14
+map_Kd c1_f_k1_lm14.png
+map_d c1_f_k1_lm14.png
+
+newmtl c1_f_l_lm14
+map_Kd c1_f_l_lm14.png
+map_d c1_f_l_lm14.png
+
+newmtl c1_f_r_lm13
+map_Kd c1_f_r_lm13.png
+map_d c1_f_r_lm13.png
+
+newmtl c1_f_k2_lm13
+map_Kd c1_f_k2_lm13.png
+map_d c1_f_k2_lm13.png
+
+newmtl c1_o02b_lm4
+map_Kd c1_o02b_lm4.png
+map_d c1_o02b_lm4.png
+
+newmtl c1_o02_lm4
+map_Kd c1_o02_lm4.png
+map_d c1_o02_lm4.png
+
+newmtl c1_g1_lm18
+map_Kd c1_g1_lm18.png
+map_d c1_g1_lm18.png
+
+newmtl c1_r1_s1_lm13
+map_Kd c1_r1_s1_lm13.png
+map_d c1_r1_s1_lm13.png
+
+newmtl c1_r1_k2_lm13
+map_Kd c1_r1_k2_lm13.png
+map_d c1_r1_k2_lm13.png
+
+newmtl c1_r1_k1_lm17
+map_Kd c1_r1_k1_lm17.png
+map_d c1_r1_k1_lm17.png
+
+newmtl c1_r1_ud_lm17
+map_Kd c1_r1_ud_lm17.png
+map_d c1_r1_ud_lm17.png
+
+newmtl t21
+map_Kd t21.png
+map_d t21.png
+
+newmtl t22
+map_Kd t22.png
+map_d t22.png
+
+newmtl t23
+map_Kd t23.png
+map_d t23.png
+
+newmtl blueglay_lm52
+map_Kd blueglay_lm52.png
+map_d blueglay_lm52.png
+
+newmtl blueglayp_lm64
+map_Kd blueglayp_lm64.png
+map_d blueglayp_lm64.png
+
+newmtl hanger_lm4
+map_Kd hanger_lm4.png
+map_d hanger_lm4.png
+
+newmtl puddlep
+map_Kd puddlep.png
+map_d puddlep.png
+
+newmtl puddle_b
+map_Kd puddle_b.png
+map_d puddle_b.png
+
+newmtl enccliff
+map_Kd enccliff.png
+map_d enccliff.png
+
+newmtl t3_fl_g_lm21
+map_Kd t3_fl_g_lm21.png
+map_d t3_fl_g_lm21.png
+
+newmtl t3_fl_y_lm21
+map_Kd t3_fl_y_lm21.png
+map_d t3_fl_y_lm21.png
+
+newmtl t3_fl_r_lm21
+map_Kd t3_fl_r_lm21.png
+map_d t3_fl_r_lm21.png
+
+newmtl t3_fl_b_lm21
+map_Kd t3_fl_b_lm21.png
+map_d t3_fl_b_lm21.png
+
+newmtl t3_fl_p_lm21
+map_Kd t3_fl_p_lm21.png
+map_d t3_fl_p_lm21.png
+
+newmtl lambert28
+map_Kd lambert28.png
+map_d lambert28.png
+
+newmtl c4_road_r_lm1
+map_Kd c4_road_r_lm1.png
+map_d c4_road_r_lm1.png
+
+newmtl c4_road_k_lm1
+map_Kd c4_road_k_lm1.png
+map_d c4_road_k_lm1.png
+
+newmtl c4_road_k2_lm1
+map_Kd c4_road_k2_lm1.png
+map_d c4_road_k2_lm1.png
+
+newmtl c3_road_t_lm24
+map_Kd c3_road_t_lm24.png
+map_d c3_road_t_lm24.png
+
+newmtl c3_road_ko_lm24
+map_Kd c3_road_ko_lm24.png
+map_d c3_road_ko_lm24.png
+
+newmtl c3_road_ki_lm24
+map_Kd c3_road_ki_lm24.png
+map_d c3_road_ki_lm24.png
+
+newmtl c3_grand_lm27
+map_Kd c3_grand_lm27.png
+map_d c3_grand_lm27.png
+
+newmtl hanger_lm1
+map_Kd hanger_lm1.png
+map_d hanger_lm1.png
+
+newmtl tree2_01_lm1
+map_Kd tree2_01_lm1.png
+map_d tree2_01_lm1.png
+
+newmtl conttree2_t_lm1
+map_Kd conttree2_t_lm1.png
+map_d conttree2_t_lm1.png
+
+newmtl conttree2_b_lm1
+map_Kd conttree2_b_lm1.png
+map_d conttree2_b_lm1.png
+
+newmtl c2_rale_b_lm2
+map_Kd c2_rale_b_lm2.png
+map_d c2_rale_b_lm2.png
+
+newmtl c2_rale_a_lm2
+map_Kd c2_rale_a_lm2.png
+map_d c2_rale_a_lm2.png
+
+newmtl lambert2
+map_Kd lambert2.png
+map_d lambert2.png
+
+newmtl lambert1
+map_Kd lambert1.png
+map_d lambert1.png
+
+newmtl ngrass_lm35
+map_Kd ngrass_lm35.png
+map_d ngrass_lm35.png
+
+newmtl criffp_lm47
+map_Kd criffp_lm47.png
+map_d criffp_lm47.png
+
+newmtl nectgr_lm54
+map_Kd nectgr_lm54.png
+map_d nectgr_lm54.png
+
+newmtl fenter_lm11
+map_Kd fenter_lm11.png
+map_d fenter_lm11.png
+
+newmtl tshadow_lm8
+map_Kd tshadow_lm8.png
+map_d tshadow_lm8.png
+
+newmtl dhole_lm2
+map_Kd dhole_lm2.png
+map_d dhole_lm2.png
+
+newmtl bridge_lm3
+map_Kd bridge_lm3.png
+map_d bridge_lm3.png
+
+newmtl newstep_lm29
+map_Kd newstep_lm29.png
+map_d newstep_lm29.png
+
