@@ -5,5 +5,5 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Pokemon/Ability")]
 public class Ability : ScriptableObject
 {
-    
+
 }

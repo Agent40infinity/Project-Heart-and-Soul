@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 644dd68656295d6458c01a578c7a76e5, type: 3}
-  m_Name: Cyndaquil
+  m_Name: Turtwig
   m_EditorClassIdentifier: 
   regionalID: 4
   NationalID: 155
   pokemonName: Cyndaquil
-  pokedexSprite: {fileID: -996262537, guid: 32c2bcef1883cfb48b646a22463974f2, type: 3}
   primaryType: {fileID: 11400000, guid: bca2132cbb947794696b0a2a59714da7, type: 2}
   secondaryType: {fileID: 0}
   expType:

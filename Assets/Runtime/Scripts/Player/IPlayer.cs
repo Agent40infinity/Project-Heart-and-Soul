@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace Runtime.Player
 {
@@ -11,5 +12,7 @@ namespace Runtime.Player
         bool Running();
         float Speed();
         bool IsMoving();
+        void SubscribeOnStep(UnityAction call);
+        void UnsubscribeOnStep(UnityAction call);
     }
 }

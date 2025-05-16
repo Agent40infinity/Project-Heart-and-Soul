@@ -13,22 +13,17 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: 
   scene:
-    enabled: 1
+    enabled: 0
     value:
       m_SceneAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
       m_IsDirty: 0
       m_ScenePath: Assets/Runtime/Scenes/Test/Test.unity
     alt:
     - m_SceneAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
-      m_IsDirty: 1
+      m_IsDirty: 0
       m_ScenePath: Assets/Runtime/Scenes/Test/Test.unity
-  area: 0
   connections:
   - identity: Entry
     targetPassage:
       handle: {fileID: 11400000, guid: cf0446b96c3c5674a983c4a57734831e, type: 2}
       connection: 0
-  SceneString: Assets/Runtime/Scenes/Routes/Special/Bell_Tower_Outside.unity
-  sceneList:
-  - Assets/Runtime/Scenes/Test/Test.unity
-  - Assets/Runtime/Scenes/Test/TestHouse.unity

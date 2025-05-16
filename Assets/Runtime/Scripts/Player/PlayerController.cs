@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Runtime.Overworld;
+using UnityEngine.Events;
 
 namespace Runtime.Player
 {
@@ -26,6 +27,14 @@ namespace Runtime.Player
 
         private bool running = false;
         private const int tileHistoryCap = 5;
+
+        public UnityEvent OnStepEvent;
+
+        public void SubscribeOnStep(UnityAction call)
+            => OnStepEvent.AddListener(call);
+
+        public void UnsubscribeOnStep(UnityAction call)
+            => OnStepEvent.RemoveListener(call);
 
         public Vector3 CurrentKey()
             => lastKeys.Count() > 0 ? keyDict[lastKeys.Last()] : Vector3.zero;
@@ -86,6 +95,8 @@ namespace Runtime.Player
                     toMove = transform.position;
                     toMove += keyDict[lastKeys.Last()];
                     OverworldPhysics.RoundTowards(toMove);
+
+                    OnStepEvent.Invoke();
                 }
             }
            

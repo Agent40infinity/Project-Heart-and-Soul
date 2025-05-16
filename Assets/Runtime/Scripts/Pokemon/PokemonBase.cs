@@ -11,6 +11,7 @@ public class PokemonBase : ScriptableObject
 
     [Header("Information")]
     public string pokemonName;
+    public Sprite pokedexSprite;
     public Type primaryType;
     public Type secondaryType;
 
