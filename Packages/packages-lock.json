@@ -225,6 +225,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "slash.databind": {
+      "version": "file:Slash.Unity.DataBind",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
