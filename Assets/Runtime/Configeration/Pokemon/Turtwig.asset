@@ -15,6 +15,7 @@ MonoBehaviour:
   regionalID: 4
   NationalID: 155
   pokemonName: Cyndaquil
+  pokedexSprite: {fileID: -154202189, guid: 4cfc1f3cf6ec3aa4aa2e6e72c5627177, type: 3}
   primaryType: {fileID: 11400000, guid: bca2132cbb947794696b0a2a59714da7, type: 2}
   secondaryType: {fileID: 0}
   expType:

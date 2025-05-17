@@ -14,18 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemon:
   - pokemon: {fileID: 11400000, guid: 4f3c0efa22677d34f84ad20783c79302, type: 2}
-    minLevel: 0
-    maxLevel: 0
+    level:
+      minLvl: 0
+      maxLvl: 0
     rate: 0
-  - pokemon: {fileID: 0}
-    minLevel: 0
-    maxLevel: 0
+  - pokemon: {fileID: 11400000, guid: 371cd86078017724488d28d4d7d7f944, type: 2}
+    level:
+      minLvl: 0
+      maxLvl: 0
     rate: 0
   - pokemon: {fileID: 11400000, guid: 984b10a68a457e04ca0573561015c3ac, type: 2}
-    minLevel: 1232131
-    maxLevel: 0
+    level:
+      minLvl: 634543
+      maxLvl: 3423432
     rate: 23123
-  - pokemon: {fileID: 0}
-    minLevel: 0
-    maxLevel: 0
-    rate: 0
+  - pokemon: {fileID: 11400000, guid: ece1fd9b6f47f464f8b0308ef6e97f68, type: 2}
+    level:
+      minLvl: 0
+      maxLvl: 0
+    rate: 3424324
