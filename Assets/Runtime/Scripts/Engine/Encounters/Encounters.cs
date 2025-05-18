@@ -4,7 +4,7 @@ public class Encounters : MonoBehaviour
 {
     public EncounterTable encounterTable;
 
-    private int CheckRate => Random.Range(1, 257);
+    private int CheckRate => Random.Range(0, 2880);
 
     private void Start()
     {
@@ -18,30 +18,28 @@ public class Encounters : MonoBehaviour
 
     public void StepTaken()
     {
-        foreach (var encounter in encounterTable.pokemon)
+        if (CheckRate > 320)
         {
-            if (CheckRate <= encounter.rate)
-            {
-                Debug.Log("Encountered: " + encounter.pokemon.name + "!");
-                break;
-            }    
+            return;
         }
+
+        RollEncounter();
     }
 
-    /*public void RollEncounter()
+    public void RollEncounter()
     {
-        var chance = CheckRate;
-        var totalRate = 0;
+        var chance = Random.Range(1, 101);
+        var total = 0;
 
-        foreach (var encounter in encounterTable)
+        foreach (var encounter in encounterTable.pokemon)
         {
-            totalRate += encounter.rate;
+            total += encounter.rate;
 
-            if (chance <= totalRate)
+            if (chance <= total)
             {
                 Debug.Log("Encountered: " + encounter.pokemon.name + "!");
                 return;
             }
         }
-    }*/
+    }
 }

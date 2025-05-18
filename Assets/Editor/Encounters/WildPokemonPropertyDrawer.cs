@@ -18,6 +18,7 @@ public class WildPokemonPropertyDrawer : PropertyDrawer
         var pokemonProperty = property.FindPropertyRelative("pokemon");
         var levelProperty = property.FindPropertyRelative("level");
         var rateProperty = property.FindPropertyRelative("rate");
+        var timeProperty = property.FindPropertyRelative("time");
 
         EditorGUI.BeginProperty(position, label, property);
 
@@ -33,8 +34,8 @@ public class WildPokemonPropertyDrawer : PropertyDrawer
 
         var background = new GUIStyle("Window").normal.scaledBackgrounds[0];
         var backgroundRect = new Rect(
-            position.x - EditorGUIUtility.singleLineHeight / 2f,
-            position.y - EditorGUIUtility.singleLineHeight / 3f,
+            position.x - encounterHeight / 10,
+            position.y - encounterHeight / 15,
             encounterHeight,
             encounterHeight);
 
@@ -55,10 +56,13 @@ public class WildPokemonPropertyDrawer : PropertyDrawer
         EditorGUI.PropertyField(position, pokemonProperty, true);
 
         position.y += EditorGUIUtility.singleLineHeight;
+        EditorGUI.PropertyField(position, rateProperty, true);
+
+        position.y += EditorGUIUtility.singleLineHeight;
         EditorGUI.PropertyField(position, levelProperty, true);
 
         position.y += EditorGUIUtility.singleLineHeight;
-        EditorGUI.PropertyField(position, rateProperty, true);
+        EditorGUI.PropertyField(position, timeProperty, true);
 
         EditorGUI.EndProperty();
     }
@@ -82,8 +86,8 @@ public class WildPokemonPropertyDrawer : PropertyDrawer
             spriteRect.width / tex.width,
             spriteRect.height / tex.height);
 
-        var minPos = EditorGUIUtility.singleLineHeight / 2;
-        var maxDiameter = EditorGUIUtility.singleLineHeight * 3;
+        var minPos = encounterHeight / 10;
+        var maxDiameter = encounterHeight * 0.6f;
 
         var previewRect = new Rect(
             position.x + minPos + (aspectWidth > 1 ? 0 : (maxDiameter - (maxDiameter * aspectWidth)) / 2),

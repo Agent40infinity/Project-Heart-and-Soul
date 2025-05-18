@@ -9,6 +9,14 @@ public class WildPokemon
     public PokemonBase pokemon;
     [UnityEngine.SerializeField] public WildLevel level;
     public int rate;
+    public TimeCycle time;
+}
+
+public enum TimeCycle
+{ 
+    Dawn,
+    Day,
+    Night
 }
 
 [System.Serializable]

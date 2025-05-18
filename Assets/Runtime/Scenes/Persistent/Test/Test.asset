@@ -16,12 +16,12 @@ MonoBehaviour:
     enabled: 0
     value:
       m_SceneAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
-      m_IsDirty: 0
-      m_ScenePath: Assets/Runtime/Scenes/Test/Test.unity
+      m_IsDirty: 1
+      m_ScenePath: Assets/Runtime/Scenes/Persistent/Test/Test.unity
     alt:
     - m_SceneAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
       m_IsDirty: 0
-      m_ScenePath: Assets/Runtime/Scenes/Test/Test.unity
+      m_ScenePath: Assets/Runtime/Scenes/Persistent/Test/Test.unity
   connections:
   - identity: Entry
     targetPassage:
