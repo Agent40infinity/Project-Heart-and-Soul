@@ -37,9 +37,21 @@ public class Encounters : MonoBehaviour
 
             if (chance <= total)
             {
-                Debug.Log("Encountered: " + encounter.pokemon.name + "!");
-                return;
+                Engine.Battle.SetupBattle(GenerateWildTrainer(GenerateWildPokemon(encounter)));
+                break;
             }
         }
+    }
+
+    public Pokemon GenerateWildPokemon(WildPokemon encounter)
+    {
+        var level = Random.Range(encounter.level.minLvl, encounter.level.maxLvl + 1);
+
+        return new Pokemon().GenerateWild(encounter.pokemon, level);
+    }
+
+    public ITrainer GenerateWildTrainer(Pokemon pokemon)
+    {
+        return new AITrainer();
     }
 }

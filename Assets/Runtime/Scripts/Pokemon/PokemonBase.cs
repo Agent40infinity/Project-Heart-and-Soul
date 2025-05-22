@@ -27,7 +27,7 @@ public class PokemonBase : ScriptableObject
     public List<Ability> abilities;
 
     [Header("Base Stats")]
-    public int hP;
+    public int hp;
     public int attack;
     public int defense;
     public int specialAtk;

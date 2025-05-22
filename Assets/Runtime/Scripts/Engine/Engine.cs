@@ -1,11 +1,9 @@
 using Runtime.Player;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Engine : MonoBehaviour
 {
-    public static BattleManager Battle = new BattleManager();
+    public static BattleManager Battle;
 
     public static IPlayer Player;
 

@@ -6,13 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Runtime/Scenes/Test/Test.unity
+    path: Assets/Runtime/Scenes/Persistent/Persistent.unity
+    guid: d1195cfab6b57a64f9afa1de1f5c7dcc
+  - enabled: 1
+    path: Assets/Runtime/Scenes/Persistent/Test/Test.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Runtime/Scenes/Towns/New_Bark_Town.unity
     guid: dd08e1728fed58b468f813d7b5496bcc
   - enabled: 1
-    path: Assets/Runtime/Scenes/Test/TestHouse.unity
+    path: Assets/Runtime/Scenes/Persistent/Test/TestHouse.unity
     guid: 74251e79b9f51eb4dbce3313e9f170dc
   - enabled: 1
     path: Assets/Runtime/Scenes/Routes/Route_29.unity
@@ -32,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Runtime/Scenes/Routes/Special/Bell_Tower_Outside.unity
     guid: 744f427557121d1429103a8f4062ec24
+  - enabled: 1
+    path: Assets/Runtime/Scenes/Persistent/Battle.unity
+    guid: cac4f0e47efc69d4faf6311471eb7fb5
   m_configObjects: {}

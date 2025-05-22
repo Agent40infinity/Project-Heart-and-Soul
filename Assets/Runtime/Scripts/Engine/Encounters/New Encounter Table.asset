@@ -15,25 +15,25 @@ MonoBehaviour:
   pokemon:
   - pokemon: {fileID: 11400000, guid: 984b10a68a457e04ca0573561015c3ac, type: 2}
     level:
-      minLvl: 634543
-      maxLvl: 3423432
+      minLvl: 3
+      maxLvl: 5
     rate: 50
     time: 0
   - pokemon: {fileID: 11400000, guid: ece1fd9b6f47f464f8b0308ef6e97f68, type: 2}
     level:
-      minLvl: 0
-      maxLvl: 0
+      minLvl: 7
+      maxLvl: 10
     rate: 30
     time: 0
   - pokemon: {fileID: 11400000, guid: 371cd86078017724488d28d4d7d7f944, type: 2}
     level:
-      minLvl: 0
-      maxLvl: 0
+      minLvl: 4
+      maxLvl: 5
     rate: 15
     time: 0
   - pokemon: {fileID: 11400000, guid: 4f3c0efa22677d34f84ad20783c79302, type: 2}
     level:
-      minLvl: 0
-      maxLvl: 0
+      minLvl: 5
+      maxLvl: 5
     rate: 5
     time: 0
