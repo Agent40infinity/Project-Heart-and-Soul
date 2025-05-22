@@ -1,0 +1,52 @@
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tree01_lm2
+map_Kd tree01_lm2.png
+map_d tree01_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl conttree_b_lm2
+map_Kd conttree_b_lm2.png
+map_d conttree_b_lm2.png
+
+newmtl conttree_t_lm2
+map_Kd conttree_t_lm2.png
+map_d conttree_t_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl sea_lm1
+map_Kd sea_lm1.png
+map_d sea_lm1.png
+
+newmtl hamabe_lm31
+map_Kd hamabe_lm31.png
+map_d hamabe_lm31.png
+
+newmtl beach_lm33
+map_Kd beach_lm33.png
+map_d beach_lm33.png
+
+newmtl searock_lm15
+map_Kd searock_lm15.png
+map_d searock_lm15.png
+
+newmtl imped_lm53
+map_Kd imped_lm53.png
+map_d imped_lm53.png
+
+newmtl beachp_lm23
+map_Kd beachp_lm23.png
+map_d beachp_lm23.png
+

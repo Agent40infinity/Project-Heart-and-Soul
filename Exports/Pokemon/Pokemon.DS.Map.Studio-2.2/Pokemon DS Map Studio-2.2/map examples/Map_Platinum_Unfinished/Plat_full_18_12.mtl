@@ -1,0 +1,76 @@
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl file1Material
+map_Kd file1Material.png
+map_d file1Material.png
+
+newmtl file2Material
+map_Kd file2Material.png
+map_d file2Material.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl newstep_lm21
+map_Kd newstep_lm21.png
+map_d newstep_lm21.png
+
+newmtl allpeak
+map_Kd allpeak.png
+map_d allpeak.png
+
+newmtl bridge
+map_Kd bridge.png
+map_d bridge.png
+
+newmtl nhana
+map_Kd nhana.png
+map_d nhana.png
+
+newmtl nectgr_lm42
+map_Kd nectgr_lm42.png
+map_d nectgr_lm42.png
+
+newmtl plant2_lm2
+map_Kd plant2_lm2.png
+map_d plant2_lm2.png
+
+newmtl lgreenp_lm2
+map_Kd lgreenp_lm2.png
+map_d lgreenp_lm2.png
+
+newmtl lgreen_lm2
+map_Kd lgreen_lm2.png
+map_d lgreen_lm2.png
+
+newmtl wcliff_lm4
+map_Kd wcliff_lm4.png
+map_d wcliff_lm4.png
+
+newmtl t21
+map_Kd t21.png
+map_d t21.png
+
+newmtl t22
+map_Kd t22.png
+map_d t22.png
+
+newmtl t23
+map_Kd t23.png
+map_d t23.png
+
+newmtl bridge_lm3
+map_Kd bridge_lm3.png
+map_d bridge_lm3.png
+

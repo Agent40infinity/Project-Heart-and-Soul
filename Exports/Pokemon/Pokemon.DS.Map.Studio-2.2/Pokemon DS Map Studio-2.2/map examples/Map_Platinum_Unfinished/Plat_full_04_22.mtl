@@ -1,0 +1,24 @@
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl sea_lm1
+map_Kd sea_lm1.png
+map_d sea_lm1.png
+
+newmtl hamabe_lm31
+map_Kd hamabe_lm31.png
+map_d hamabe_lm31.png
+
+newmtl beach_lm33
+map_Kd beach_lm33.png
+map_d beach_lm33.png
+
+newmtl searock_lm15
+map_Kd searock_lm15.png
+map_d searock_lm15.png
+

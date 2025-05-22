@@ -1,0 +1,72 @@
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tree01_lm2
+map_Kd tree01_lm2.png
+map_d tree01_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl lakep_lm2
+map_Kd lakep_lm2.png
+map_d lakep_lm2.png
+
+newmtl conttree_b_lm2
+map_Kd conttree_b_lm2.png
+map_d conttree_b_lm2.png
+
+newmtl conttree_t_lm2
+map_Kd conttree_t_lm2.png
+map_d conttree_t_lm2.png
+
+newmtl file1Material
+map_Kd file1Material.png
+map_d file1Material.png
+
+newmtl file2Material
+map_Kd file2Material.png
+map_d file2Material.png
+
+newmtl newstep_lm21
+map_Kd newstep_lm21.png
+map_d newstep_lm21.png
+
+newmtl allpeak
+map_Kd allpeak.png
+map_d allpeak.png
+
+newmtl seaside3_lm67
+map_Kd seaside3_lm67.png
+map_d seaside3_lm67.png
+
+newmtl lake_lm2
+map_Kd lake_lm2.png
+map_d lake_lm2.png
+
+newmtl nhana
+map_Kd nhana.png
+map_d nhana.png
+
+newmtl nectgr_lm42
+map_Kd nectgr_lm42.png
+map_d nectgr_lm42.png
+
+newmtl imped_lm53
+map_Kd imped_lm53.png
+map_d imped_lm53.png
+
+newmtl blueglay_lm52
+map_Kd blueglay_lm52.png
+map_d blueglay_lm52.png
+
+newmtl blueglayp_lm64
+map_Kd blueglayp_lm64.png
+map_d blueglayp_lm64.png
+
+newmtl puddle_b
+map_Kd puddle_b.png
+map_d puddle_b.png
+

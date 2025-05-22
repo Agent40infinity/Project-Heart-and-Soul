@@ -22,11 +22,16 @@ namespace Runtime.Player
 
         void Update()
         {
+            if (player.PastPos() == null)
+            {
+                return;
+            }
+
             if (OverworldPhysics.WithinTile(toMove, transform))
             {
                 if (transform.position != player.PastPos())
                 {
-                    toMove = player.PastPos();
+                    toMove = (Vector3)player.PastPos();
                     OverworldPhysics.RoundTowards(toMove);
                 }
             }

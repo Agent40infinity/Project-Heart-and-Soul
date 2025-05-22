@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5780c0df88c91c4fbd593968a3b41c8, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  scene:
+    enabled: 1
+    value:
+      m_SceneAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+      m_IsDirty: 0
+      m_ScenePath: Assets/Runtime/Scenes/Persistent/Test/Test.unity
+    alt:
+    - m_SceneAsset: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+      m_IsDirty: 0
+      m_ScenePath: Assets/Runtime/Scenes/Persistent/Test/Test.unity
+  connections:
+  - identity: Entry
+    targetPassage:
+      handle: {fileID: 11400000, guid: cf0446b96c3c5674a983c4a57734831e, type: 2}
+      connection: 0

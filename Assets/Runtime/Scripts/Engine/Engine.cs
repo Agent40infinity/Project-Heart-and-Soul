@@ -1,8 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
+using Runtime.Player;
 using UnityEngine;
 
-public static class Engine
+public class Engine : MonoBehaviour
 {
-    public static BattleManager Battle = new BattleManager();
+    public static BattleManager Battle;
+
+    public static IPlayer Player;
+
+    public void Awake()
+    {
+        Player = GameObject.FindWithTag("Player").GetComponent<IPlayer>();
+    }
 }

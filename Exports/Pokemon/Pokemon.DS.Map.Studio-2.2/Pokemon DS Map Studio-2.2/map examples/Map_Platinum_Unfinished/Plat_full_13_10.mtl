@@ -1,0 +1,76 @@
+newmtl nsand_lm2
+map_Kd nsand_lm2.png
+map_d nsand_lm2.png
+
+newmtl nsandp_lm2
+map_Kd nsandp_lm2.png
+map_d nsandp_lm2.png
+
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl file1Material
+map_Kd file1Material.png
+map_d file1Material.png
+
+newmtl file2Material
+map_Kd file2Material.png
+map_d file2Material.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl shadowchip
+map_Kd shadowchip.png
+map_d shadowchip.png
+
+newmtl nhana
+map_Kd nhana.png
+map_d nhana.png
+
+newmtl wcliff_lm4
+map_Kd wcliff_lm4.png
+map_d wcliff_lm4.png
+
+newmtl asasea_lm25
+map_Kd asasea_lm25.png
+map_d asasea_lm25.png
+
+newmtl c1_d_4_lm14
+map_Kd c1_d_4_lm14.png
+map_d c1_d_4_lm14.png
+
+newmtl c1_d_2_lm14
+map_Kd c1_d_2_lm14.png
+map_d c1_d_2_lm14.png
+
+newmtl c1_r1_lm18
+map_Kd c1_r1_lm18.png
+map_d c1_r1_lm18.png
+
+newmtl c1_g1_lm18
+map_Kd c1_g1_lm18.png
+map_d c1_g1_lm18.png
+
+newmtl c1_r1_k2_lm13
+map_Kd c1_r1_k2_lm13.png
+map_d c1_r1_k2_lm13.png
+
+newmtl c1_r1_k1_lm17
+map_Kd c1_r1_k1_lm17.png
+map_d c1_r1_k1_lm17.png
+
+newmtl puddlep
+map_Kd puddlep.png
+map_d puddlep.png
+
+newmtl puddle_b
+map_Kd puddle_b.png
+map_d puddle_b.png
+

@@ -11,6 +11,7 @@ public class PokemonBase : ScriptableObject
 
     [Header("Information")]
     public string pokemonName;
+    public Sprite pokedexSprite;
     public Type primaryType;
     public Type secondaryType;
 
@@ -26,7 +27,7 @@ public class PokemonBase : ScriptableObject
     public List<Ability> abilities;
 
     [Header("Base Stats")]
-    public int hP;
+    public int hp;
     public int attack;
     public int defense;
     public int specialAtk;

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfe8809b1a42fe46833d1aa0096cf36, type: 3}
+  m_Name: New Encounter Table
+  m_EditorClassIdentifier: 
+  pokemon:
+  - pokemon: {fileID: 11400000, guid: 984b10a68a457e04ca0573561015c3ac, type: 2}
+    level:
+      minLvl: 3
+      maxLvl: 5
+    rate: 50
+    time: 0
+  - pokemon: {fileID: 11400000, guid: ece1fd9b6f47f464f8b0308ef6e97f68, type: 2}
+    level:
+      minLvl: 7
+      maxLvl: 10
+    rate: 30
+    time: 0
+  - pokemon: {fileID: 11400000, guid: 371cd86078017724488d28d4d7d7f944, type: 2}
+    level:
+      minLvl: 4
+      maxLvl: 5
+    rate: 15
+    time: 0
+  - pokemon: {fileID: 11400000, guid: 4f3c0efa22677d34f84ad20783c79302, type: 2}
+    level:
+      minLvl: 5
+      maxLvl: 5
+    rate: 5
+    time: 0

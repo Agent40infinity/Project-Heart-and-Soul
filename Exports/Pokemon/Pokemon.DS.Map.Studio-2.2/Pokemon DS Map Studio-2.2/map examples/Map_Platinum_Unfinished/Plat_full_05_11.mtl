@@ -1,0 +1,40 @@
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tree01_lm2
+map_Kd tree01_lm2.png
+map_d tree01_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl conttree_b_lm2
+map_Kd conttree_b_lm2.png
+map_d conttree_b_lm2.png
+
+newmtl conttree_t_lm2
+map_Kd conttree_t_lm2.png
+map_d conttree_t_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl nhana
+map_Kd nhana.png
+map_d nhana.png
+
+newmtl lgreenp_lm2
+map_Kd lgreenp_lm2.png
+map_d lgreenp_lm2.png
+
+newmtl ckado_lm2
+map_Kd ckado_lm2.png
+map_d ckado_lm2.png
+

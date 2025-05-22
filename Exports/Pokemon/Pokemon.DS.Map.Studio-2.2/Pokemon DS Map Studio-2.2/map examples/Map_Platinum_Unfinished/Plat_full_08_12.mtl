@@ -1,0 +1,32 @@
+newmtl nsandp_lm2
+map_Kd nsandp_lm2.png
+map_d nsandp_lm2.png
+
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl criffp_lm42
+map_Kd criffp_lm42.png
+map_d criffp_lm42.png
+
+newmtl file2Material
+map_Kd file2Material.png
+map_d file2Material.png
+
+newmtl criff_lm44
+map_Kd criff_lm44.png
+map_d criff_lm44.png
+
+newmtl ckado_lm2
+map_Kd ckado_lm2.png
+map_d ckado_lm2.png
+
+newmtl wcliff_lm4
+map_Kd wcliff_lm4.png
+map_d wcliff_lm4.png
+
+newmtl c1_r1_s1_lm13
+map_Kd c1_r1_s1_lm13.png
+map_d c1_r1_s1_lm13.png
+

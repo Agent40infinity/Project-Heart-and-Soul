@@ -1,0 +1,60 @@
+newmtl nsand_lm2
+map_Kd nsand_lm2.png
+map_d nsand_lm2.png
+
+newmtl nsandp_lm2
+map_Kd nsandp_lm2.png
+map_d nsandp_lm2.png
+
+newmtl ngrass_lm2
+map_Kd ngrass_lm2.png
+map_d ngrass_lm2.png
+
+newmtl tree01_lm2
+map_Kd tree01_lm2.png
+map_d tree01_lm2.png
+
+newmtl tshadow_lm2
+map_Kd tshadow_lm2.png
+map_d tshadow_lm2.png
+
+newmtl conttree_b_lm2
+map_Kd conttree_b_lm2.png
+map_d conttree_b_lm2.png
+
+newmtl conttree_t_lm2
+map_Kd conttree_t_lm2.png
+map_d conttree_t_lm2.png
+
+newmtl fenter_lm6
+map_Kd fenter_lm6.png
+map_d fenter_lm6.png
+
+newmtl plant2_lm2
+map_Kd plant2_lm2.png
+map_d plant2_lm2.png
+
+newmtl t3_fl_g_lm21
+map_Kd t3_fl_g_lm21.png
+map_d t3_fl_g_lm21.png
+
+newmtl t3_fl_y_lm21
+map_Kd t3_fl_y_lm21.png
+map_d t3_fl_y_lm21.png
+
+newmtl t3_fl_r_lm21
+map_Kd t3_fl_r_lm21.png
+map_d t3_fl_r_lm21.png
+
+newmtl t3_fl_b_lm21
+map_Kd t3_fl_b_lm21.png
+map_d t3_fl_b_lm21.png
+
+newmtl t3_fl_p_lm21
+map_Kd t3_fl_p_lm21.png
+map_d t3_fl_p_lm21.png
+
+newmtl lambert28
+map_Kd lambert28.png
+map_d lambert28.png
+
