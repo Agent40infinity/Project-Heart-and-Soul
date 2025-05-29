@@ -2976,6 +2976,7 @@ GameObject:
   - component: {fileID: 2117953175}
   - component: {fileID: 2117953176}
   - component: {fileID: 2117953174}
+  - component: {fileID: 2117953177}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -3115,6 +3116,220 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b4a7c2141d9da4ea44e3e9d0ab9c47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2117953177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2117953170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbababdcdc4a38f4f9300e34d683aee1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trainer:
+    party:
+      pokemon:
+      - nickname: 
+        oT: 
+        origin: {fileID: 0}
+        caughtWith: {fileID: 0}
+        metDate: 
+        metDescription: 
+        personality: 
+        gender: 0
+        nature: {fileID: 0}
+        ability: {fileID: 0}
+        shiny: 0
+        happiness: 0
+        heldItem: {fileID: 0}
+        level: 0
+        exp: 0
+        hpIV: 0
+        atkIV: 0
+        defIV: 0
+        spAtkIV: 0
+        spDefIV: 0
+        spdIV: 0
+        hpEV: 0
+        atkEV: 0
+        defEV: 0
+        spAtkEV: 0
+        spDefEV: 0
+        spdEV: 0
+        remainingEVs: 510
+        moves:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      - nickname: 
+        oT: 
+        origin: {fileID: 0}
+        caughtWith: {fileID: 0}
+        metDate: 
+        metDescription: 
+        personality: 
+        gender: 0
+        nature: {fileID: 0}
+        ability: {fileID: 0}
+        shiny: 0
+        happiness: 0
+        heldItem: {fileID: 0}
+        level: 0
+        exp: 0
+        hpIV: 0
+        atkIV: 0
+        defIV: 0
+        spAtkIV: 0
+        spDefIV: 0
+        spdIV: 0
+        hpEV: 0
+        atkEV: 0
+        defEV: 0
+        spAtkEV: 0
+        spDefEV: 0
+        spdEV: 0
+        remainingEVs: 510
+        moves:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      - nickname: 
+        oT: 
+        origin: {fileID: 0}
+        caughtWith: {fileID: 0}
+        metDate: 
+        metDescription: 
+        personality: 
+        gender: 0
+        nature: {fileID: 0}
+        ability: {fileID: 0}
+        shiny: 0
+        happiness: 0
+        heldItem: {fileID: 0}
+        level: 0
+        exp: 0
+        hpIV: 0
+        atkIV: 0
+        defIV: 0
+        spAtkIV: 0
+        spDefIV: 0
+        spdIV: 0
+        hpEV: 0
+        atkEV: 0
+        defEV: 0
+        spAtkEV: 0
+        spDefEV: 0
+        spdEV: 0
+        remainingEVs: 510
+        moves:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      - nickname: 
+        oT: 
+        origin: {fileID: 0}
+        caughtWith: {fileID: 0}
+        metDate: 
+        metDescription: 
+        personality: 
+        gender: 0
+        nature: {fileID: 0}
+        ability: {fileID: 0}
+        shiny: 0
+        happiness: 0
+        heldItem: {fileID: 0}
+        level: 0
+        exp: 0
+        hpIV: 0
+        atkIV: 0
+        defIV: 0
+        spAtkIV: 0
+        spDefIV: 0
+        spdIV: 0
+        hpEV: 0
+        atkEV: 0
+        defEV: 0
+        spAtkEV: 0
+        spDefEV: 0
+        spdEV: 0
+        remainingEVs: 510
+        moves:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      - nickname: 
+        oT: 
+        origin: {fileID: 0}
+        caughtWith: {fileID: 0}
+        metDate: 
+        metDescription: 
+        personality: 
+        gender: 0
+        nature: {fileID: 0}
+        ability: {fileID: 0}
+        shiny: 0
+        happiness: 0
+        heldItem: {fileID: 0}
+        level: 0
+        exp: 0
+        hpIV: 0
+        atkIV: 0
+        defIV: 0
+        spAtkIV: 0
+        spDefIV: 0
+        spdIV: 0
+        hpEV: 0
+        atkEV: 0
+        defEV: 0
+        spAtkEV: 0
+        spDefEV: 0
+        spdEV: 0
+        remainingEVs: 510
+        moves:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      - nickname: 
+        oT: 
+        origin: {fileID: 0}
+        caughtWith: {fileID: 0}
+        metDate: 
+        metDescription: 
+        personality: 
+        gender: 0
+        nature: {fileID: 0}
+        ability: {fileID: 0}
+        shiny: 0
+        happiness: 0
+        heldItem: {fileID: 0}
+        level: 0
+        exp: 0
+        hpIV: 0
+        atkIV: 0
+        defIV: 0
+        spAtkIV: 0
+        spDefIV: 0
+        spdIV: 0
+        hpEV: 0
+        atkEV: 0
+        defEV: 0
+        spAtkEV: 0
+        spDefEV: 0
+        spdEV: 0
+        remainingEVs: 510
+        moves:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+    intelligence: 3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

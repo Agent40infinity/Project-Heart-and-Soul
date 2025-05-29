@@ -27,8 +27,8 @@ MonoBehaviour:
   captureRate: 45
   baseHappiness: 70
   abilities:
-  - {fileID: 0}
-  hP: 39
+  - {fileID: 11400000, guid: 1888be2b380d7d44e8306a7af8d87c01, type: 2}
+  hp: 0
   attack: 52
   defense: 43
   specialAtk: 60
@@ -51,8 +51,19 @@ MonoBehaviour:
       heldItem: {fileID: 0}
       level: 0
       exp: 0
-      iVs: 
-      eVs: 
+      hpIV: 0
+      atkIV: 0
+      defIV: 0
+      spAtkIV: 0
+      spDefIV: 0
+      spdIV: 0
+      hpEV: 0
+      atkEV: 0
+      defEV: 0
+      spAtkEV: 0
+      spDefEV: 0
+      spdEV: 0
+      remainingEVs: 510
       moves: []
     evoLevel: 0
     itemRequired: 0

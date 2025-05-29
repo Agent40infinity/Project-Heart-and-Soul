@@ -1,16 +1,22 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Trainer : MonoBehaviour, ITrainer
+[System.Serializable]
+public class trainer : ITrainer
 {
-    public Bag Bag()
-    {
-        throw new System.NotImplementedException();
-    }
+    [SerializeField] private Bag bag = new Bag();
+    [SerializeField] private Party party = new Party();
 
-    public Party Party()
+    public Intelligence intelligence;
+
+    public Bag Bag() => bag;
+
+    public Party Party() => party;
+
+    public trainer(Intelligence aiType, Pokemon pokemon)
     {
-        throw new System.NotImplementedException();
+        intelligence = aiType;
+        party.pokemon[0] = pokemon;
     }
 }
+
+public enum Intelligence { Wild = 0, Standard = 1, Advanced = 2, Player = 3 }

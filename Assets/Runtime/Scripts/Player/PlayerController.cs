@@ -6,7 +6,7 @@ using UnityEngine.Events;
 
 namespace Runtime.Player
 {
-    public class PlayerController : MonoBehaviour, IPlayer
+    public class PlayerController : MonoBehaviour, IPlayerController
     {
         public Dictionary<KeyCode, Vector3> keyDict = new Dictionary<KeyCode, Vector3>()
         {

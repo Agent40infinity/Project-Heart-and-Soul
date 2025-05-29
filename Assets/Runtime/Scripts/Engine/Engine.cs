@@ -5,10 +5,14 @@ public class Engine : MonoBehaviour
 {
     public static BattleManager Battle;
 
-    public static IPlayer Player;
+    public static IPlayerController Player;
+    public static TrainerInfo PlayerTrainerInfo;
 
     public void Awake()
     {
-        Player = GameObject.FindWithTag("Player").GetComponent<IPlayer>();
+        var playerObj = GameObject.FindWithTag("Player");
+
+        Player = playerObj.GetComponent<IPlayerController>();
+        PlayerTrainerInfo = playerObj.GetComponent<TrainerInfo>();
     }
 }

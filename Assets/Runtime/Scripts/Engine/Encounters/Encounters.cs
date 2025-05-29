@@ -52,6 +52,6 @@ public class Encounters : MonoBehaviour
 
     public ITrainer GenerateWildTrainer(Pokemon pokemon)
     {
-        return new AITrainer();
+        return new trainer(Intelligence.Wild, pokemon);
     }
 }

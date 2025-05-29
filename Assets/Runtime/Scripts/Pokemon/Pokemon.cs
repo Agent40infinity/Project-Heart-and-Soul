@@ -63,7 +63,7 @@ using UnityEngine;
         origin = pokeBase;
         level = lvl;
 
-        ability = origin.abilities[Random.Range(0, origin.abilities.Count + 1)];
+        ability = origin.abilities[Random.Range(0, origin.abilities.Count)];
         gender = (Gender)Random.Range(0, 2);
 
         hpIV = Random.Range(0, 32);
@@ -75,7 +75,7 @@ using UnityEngine;
 
         var avaliableMoves = origin.moveset.Where(ms => ms.level <= level).ToList();
         moves = avaliableMoves
-            .GetRange(Mathf.Clamp(avaliableMoves.Count - 5, 0, 100), moves.Length)
+            .GetRange(Mathf.Clamp(avaliableMoves.Count - 5, 0, 100), Mathf.Clamp(moves.Length, 1, avaliableMoves.Count))
             .Select(m => m.move)
             .ToArray();
 

@@ -7,7 +7,7 @@ namespace Runtime.Player
     public class PlayerAnimation : MonoBehaviour
     {
         private Animator anim;
-        IPlayer player;
+        IPlayerController player;
 
         /* Direction determined by float to make it easier to control since we can't do a state machine for animations.
          * 1 - Up
@@ -20,7 +20,7 @@ namespace Runtime.Player
         public void Awake()
         {
             anim = GetComponent<Animator>();
-            player = GetComponent<IPlayer>();
+            player = GetComponent<IPlayerController>();
         }
 
         public void Update()

@@ -7,7 +7,7 @@ namespace Runtime.Player
 {
     public class PlayerFollower : MonoBehaviour
     {
-        IPlayer player;
+        IPlayerController player;
 
         public float facing = 2;
         public Vector3 toMove = Vector3.zero;
@@ -16,7 +16,7 @@ namespace Runtime.Player
 
         public void Awake()
         {
-            player = GameObject.Find("Player").GetComponent<IPlayer>();
+            player = GameObject.Find("Player").GetComponent<IPlayerController>();
             anim = GetComponentInChildren<Animator>();
         }
 

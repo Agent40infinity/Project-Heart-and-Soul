@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 namespace Runtime.Player
 {
-    public interface IPlayer
+    public interface IPlayerController
     {
         Vector3 FutureDist();
         Vector3? PastPos();
