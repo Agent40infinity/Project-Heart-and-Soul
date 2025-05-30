@@ -5,7 +5,7 @@ public class Engine : MonoBehaviour
 {
     public static BattleManager Battle;
 
-    public static PlayerData Player;
+    public static PlayerData Player = new PlayerData();
 
     public struct PlayerData
     {
