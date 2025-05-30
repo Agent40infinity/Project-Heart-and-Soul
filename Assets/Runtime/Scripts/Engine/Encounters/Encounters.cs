@@ -8,12 +8,12 @@ public class Encounters : MonoBehaviour
 
     private void Start()
     {
-        Engine.Player.SubscribeOnStep(StepTaken);
+        Engine.Player.controller.SubscribeOnStep(StepTaken);
     }
 
     private void OnDestroy()
     {
-        Engine.Player.UnsubscribeOnStep(StepTaken);
+        Engine.Player.controller.UnsubscribeOnStep(StepTaken);
     }
 
     public void StepTaken()

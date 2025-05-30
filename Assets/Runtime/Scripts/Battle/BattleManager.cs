@@ -10,7 +10,7 @@ public sealed class BattleManager : MonoBehaviour
     {
         Engine.Battle = this;
 
-        trainers.Add(Engine.PlayerTrainerInfo.trainer);
+        trainers.Add(Engine.Player.trainerInfo.trainer);
     }
 
     public void SetupBattle(List<ITrainer> opponents)
