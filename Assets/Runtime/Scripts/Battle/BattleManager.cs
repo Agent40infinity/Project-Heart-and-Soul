@@ -27,4 +27,6 @@ public sealed class BattleManager : MonoBehaviour
     {
         trainers.RemoveRange(1, trainers.Count - 1);
     }
+
+
 }
