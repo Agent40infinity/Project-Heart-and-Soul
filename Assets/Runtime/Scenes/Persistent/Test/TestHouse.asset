@@ -17,7 +17,7 @@ MonoBehaviour:
     value:
       m_SceneAsset: {fileID: 102900000, guid: 74251e79b9f51eb4dbce3313e9f170dc, type: 3}
       m_IsDirty: 0
-      m_ScenePath: Assets/Runtime/Scenes/Test/TestHouse.unity
+      m_ScenePath: Assets/Runtime/Scenes/Persistent/Test/TestHouse.unity
     alt: []
   connections:
   - identity: Exit

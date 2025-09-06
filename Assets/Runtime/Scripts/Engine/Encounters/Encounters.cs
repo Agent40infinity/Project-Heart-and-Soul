@@ -1,4 +1,6 @@
 using UnityEngine;
+using PokeApiNet;
+using System.Threading.Tasks;
 
 public class Encounters : MonoBehaviour
 {
@@ -9,6 +11,14 @@ public class Encounters : MonoBehaviour
     private void Start()
     {
         Engine.Player.controller.SubscribeOnStep(StepTaken);
+
+        CheckAPI();
+    }
+
+    private async Task CheckAPI()
+    {
+        PokeApiClient pokeClient = new PokeApiClient();
+        var poke = await pokeClient.GetResourceAsync<PokeApiNet.Pokemon>(1);
     }
 
     private void OnDestroy()
